@@ -1,8 +1,12 @@
 # exploring_world_emissions
 
 ## Table of Contents
-[Resources](https://github.com/themountaintop/exploring_world_emissions/README.md#resources)
-[Project notes](https://github.com/themountaintop/exploring_world_emissions/README.md#project-notes)
+- [Overview of Project](#overview-of-project)
+  - [Resources](#resources)
+  - [Project Notes](#project-notes)
+  - [Challenges](#challenges)
+- [Summary](#summary)
+
 
 
 ### Overview of project
@@ -18,8 +22,14 @@ Source Data:
 - [Emissions by Country](https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022)
 
 ### Project notes
+1/18 Beginning preprocessing, creating a database, and general outline of our project
 
 
 ### Challenges
+1/18 Preprocessing data to match between tables. We found a possible join at ISO country values
+
+
+### Summary
+
 
 
