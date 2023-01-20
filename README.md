@@ -27,6 +27,8 @@ Our team has decided to take a deeper look into the correlation found between gl
 
 The data we selected seems to have come from different sources that had different objectives, so we had some trouble cleaning the data in a way that allowed us to join the tables on the country and year of collection. 
 
+We also ran into some issues with our individual branches merging to the main branch. We found the best solution was to delete the branch and re-create it. Doing this caused us to lose the marker of how many commits we had all made individually in the first week. 
+
 #### CSV Files:
 
 - [emission_cleaned.csv](exploring_world_emissions/Resources/emission_cleaned)
