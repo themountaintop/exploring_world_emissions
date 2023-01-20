@@ -2,15 +2,44 @@
 
 ## Table of Contents
 - [Overview of Project](#overview-of-project)
-  - [Resources](#resources)
-  - [Project Notes](#project-notes)
+- [Project Notes](#project-notes)
     - [Segment 1](#segment-1)
-  - [Project Challenges](#project-challenges)
+    - [Segment 2](#segment-2)
+    - [Segment 3](#segment-3)
+    - [Segment 4](#segment-4)
+- [Resources](#resources)
+- [Project Challenges](#project-challenges)
 - [Summary](#summary)
 
 
 ### Overview of project
 Our team has decided to take a deeper look into the correlation found between global emissions, population, and temperatures using machine learning to formulate classes and predictions to create visualizations. 
+
+### Project notes
+
+#### Segment 1
+ 
+  For this segment we have cleaned the data, created tables for our database which we have saved as CSV files (listed below), and individually commited to our branches of the repo before merging.
+
+  The team selected datasets concerning emissions by country, global temperature trends, and world population. We all agreed that we would like something measureable and scientific to work on for our project. We wanted a subject we all cared about that would also be an interesting subject to present. (Also, the Star Wars data we found didn't have any data to show off our machine learning skills!) We plan to use this data to show trends over the last 5-10 years whether it be an increase or decrease of emissions.
+
+#### Segment 1 Challenges:
+
+The data we selected seems to have come from different sources that had different objectives, so we had some trouble cleaning the data in a way that allowed us to join the tables on the country and year of collection. 
+
+#### CSV Files:
+
+- [emission_cleaned.csv](exploring_world_emissions/Resources/emission_cleaned)
+
+- [Temperature_Change.csv](exploring_world_emissions/Resources/Temperature_Change.csv)
+
+- [world_population_by_year.csv](exploring_world_emissions/Resources/world_population_by_year)
+
+#### Segment 2
+
+#### Segment 3
+
+#### Segment 4
 
 ### Resources
 Source Data:
@@ -27,18 +56,11 @@ Source Data:
   - this data set has our emissions measrements by country
   - cleaned data was saved into a new table
 
-- Database Screenshot
-  
-### Project notes
 
-#### Sement 1
-  Beginning preprocessing, creating a database, and general outline of our project
+### Project Challenges (to be completed as they present)
 
 
-### Project Challenges
-
-
-### Summary
+### Summary (to be completed after analysis)
 
 
 
