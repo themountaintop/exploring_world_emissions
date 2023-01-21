@@ -27,7 +27,7 @@ Our team has decided to take a deeper look into the correlation found between gl
 
 The data we selected seems to have come from different sources that had different objectives, so we had some trouble cleaning the data in a way that allowed us to join the tables on the country and year of collection. 
 
-We also ran into some issues with our individual branches merging to the main branch. We found the best solution was to delete the branch and re-create it. Doing this caused us to lose the marker of how many commits we had all made individually in the first week. 
+The data set we selected went back to the 18th century, and as a group we had to decide what we would keep and what we would drop. This also helped in creating the initial database.
 
 #### CSV Files:
 
