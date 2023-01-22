@@ -1,0 +1,2807 @@
+Country,ISO3,Year,Temp_Change
+Australia,AUS,1961,0.151
+Austria,AUT,1961,1.031
+"Belarus, Rep. of",BLR,1961,
+Belgium,BEL,1961,
+Brazil,BRA,1961,0.141
+Bulgaria,BGR,1961,0.901
+Canada,CAN,1961,0.052
+"China, P.R.: Mainland",CHN,1961,0.257
+"Croatia, Rep. of",HRV,1961,
+Cyprus,CYP,1961,0.017
+Czech Rep.,CZE,1961,
+Denmark,DNK,1961,1.12
+"Estonia, Rep. of",EST,1961,
+Finland,FIN,1961,1.906
+France,FRA,1961,0.837
+Germany,DEU,1961,0.99
+Greece,GRC,1961,0.472
+Hungary,HUN,1961,1.186
+Iceland,ISL,1961,0.539
+Ireland,IRL,1961,0.262
+Italy,ITA,1961,0.809
+Japan,JPN,1961,0.667
+"Kazakhstan, Rep. of",KAZ,1961,
+"Korea, Rep. of",KOR,1961,0.622
+Latvia,LVA,1961,
+Liechtenstein,LIE,1961,1.057
+Lithuania,LTU,1961,
+Luxembourg,LUX,1961,
+Malta,MLT,1961,0.544
+"Netherlands, The",NLD,1961,0.851
+New Zealand,NZL,1961,-0.279
+Norway,NOR,1961,1.242
+"Poland, Rep. of",POL,1961,1.399
+Portugal,PRT,1961,0.836
+Romania,ROU,1961,1.083
+Russian Federation,RUS,1961,
+Slovak Rep.,SVK,1961,
+"Slovenia, Rep. of",SVN,1961,
+Spain,ESP,1961,0.746
+Sweden,SWE,1961,1.568
+Switzerland,CHE,1961,0.991
+Turkey,TUR,1961,0.198
+Ukraine,UKR,1961,
+United Kingdom,GBR,1961,0.496
+United States,USA,1961,0.003
+World,WLD,1961,0.207
+Australia,AUS,1962,0.118
+Austria,AUT,1962,-0.624
+"Belarus, Rep. of",BLR,1962,
+Belgium,BEL,1962,
+Brazil,BRA,1962,-0.197
+Bulgaria,BGR,1962,0.488
+Canada,CAN,1962,-0.122
+"China, P.R.: Mainland",CHN,1962,-0.142
+"Croatia, Rep. of",HRV,1962,
+Cyprus,CYP,1962,0.78
+Czech Rep.,CZE,1962,
+Denmark,DNK,1962,-0.639
+"Estonia, Rep. of",EST,1962,
+Finland,FIN,1962,-0.322
+France,FRA,1962,-0.296
+Germany,DEU,1962,-0.751
+Greece,GRC,1962,0.609
+Hungary,HUN,1962,-0.415
+Iceland,ISL,1962,-0.282
+Ireland,IRL,1962,-0.69
+Italy,ITA,1962,0.036
+Japan,JPN,1962,0.123
+"Kazakhstan, Rep. of",KAZ,1962,
+"Korea, Rep. of",KOR,1962,-0.108
+Latvia,LVA,1962,
+Liechtenstein,LIE,1962,-0.484
+Lithuania,LTU,1962,
+Luxembourg,LUX,1962,
+Malta,MLT,1962,0.376
+"Netherlands, The",NLD,1962,-0.91
+New Zealand,NZL,1962,0.583
+Norway,NOR,1962,-0.779
+"Poland, Rep. of",POL,1962,-0.514
+Portugal,PRT,1962,0.538
+Romania,ROU,1962,0.179
+Russian Federation,RUS,1962,
+Slovak Rep.,SVK,1962,
+"Slovenia, Rep. of",SVN,1962,
+Spain,ESP,1962,0.428
+Sweden,SWE,1962,-0.685
+Switzerland,CHE,1962,-0.354
+Turkey,TUR,1962,1.057
+Ukraine,UKR,1962,
+United Kingdom,GBR,1962,-0.731
+United States,USA,1962,-0.021
+World,WLD,1962,0.037
+Australia,AUS,1963,-0.111
+Austria,AUT,1963,-0.729
+"Belarus, Rep. of",BLR,1963,
+Belgium,BEL,1963,
+Brazil,BRA,1963,0.146
+Bulgaria,BGR,1963,-0.249
+Canada,CAN,1963,0.33
+"China, P.R.: Mainland",CHN,1963,0.288
+"Croatia, Rep. of",HRV,1963,
+Cyprus,CYP,1963,0.728
+Czech Rep.,CZE,1963,
+Denmark,DNK,1963,-1.018
+"Estonia, Rep. of",EST,1963,
+Finland,FIN,1963,-0.386
+France,FRA,1963,-0.948
+Germany,DEU,1963,-1.085
+Greece,GRC,1963,0.296
+Hungary,HUN,1963,-0.459
+Iceland,ISL,1963,-0.093
+Ireland,IRL,1963,-0.776
+Italy,ITA,1963,-0.356
+Japan,JPN,1963,-0.056
+"Kazakhstan, Rep. of",KAZ,1963,
+"Korea, Rep. of",KOR,1963,-0.484
+Latvia,LVA,1963,
+Liechtenstein,LIE,1963,-0.775
+Lithuania,LTU,1963,
+Luxembourg,LUX,1963,
+Malta,MLT,1963,-0.166
+"Netherlands, The",NLD,1963,-1.273
+New Zealand,NZL,1963,-0.355
+Norway,NOR,1963,-0.137
+"Poland, Rep. of",POL,1963,-0.883
+Portugal,PRT,1963,-0.068
+Romania,ROU,1963,-0.292
+Russian Federation,RUS,1963,
+Slovak Rep.,SVK,1963,
+"Slovenia, Rep. of",SVN,1963,
+Spain,ESP,1963,-0.213
+Sweden,SWE,1963,-0.454
+Switzerland,CHE,1963,-0.864
+Turkey,TUR,1963,0.497
+Ukraine,UKR,1963,
+United Kingdom,GBR,1963,-0.865
+United States,USA,1963,0.419
+World,WLD,1963,0.167
+Australia,AUS,1964,-0.029
+Austria,AUT,1964,-0.371
+"Belarus, Rep. of",BLR,1964,
+Belgium,BEL,1964,
+Brazil,BRA,1964,-0.237
+Bulgaria,BGR,1964,-0.532
+Canada,CAN,1964,-0.304
+"China, P.R.: Mainland",CHN,1964,-0.028
+"Croatia, Rep. of",HRV,1964,
+Cyprus,CYP,1964,-0.591
+Czech Rep.,CZE,1964,
+Denmark,DNK,1964,-0.274
+"Estonia, Rep. of",EST,1964,
+Finland,FIN,1964,0.35
+France,FRA,1964,0.03
+Germany,DEU,1964,-0.33
+Greece,GRC,1964,-0.312
+Hungary,HUN,1964,-0.876
+Iceland,ISL,1964,1.1
+Ireland,IRL,1964,0.154
+Italy,ITA,1964,0.142
+Japan,JPN,1964,0.261
+"Kazakhstan, Rep. of",KAZ,1964,
+"Korea, Rep. of",KOR,1964,0.598
+Latvia,LVA,1964,
+Liechtenstein,LIE,1964,0.06
+Lithuania,LTU,1964,
+Luxembourg,LUX,1964,
+Malta,MLT,1964,0.299
+"Netherlands, The",NLD,1964,-0.34
+New Zealand,NZL,1964,-0.454
+Norway,NOR,1964,0.365
+"Poland, Rep. of",POL,1964,-0.72
+Portugal,PRT,1964,0.533
+Romania,ROU,1964,-0.783
+Russian Federation,RUS,1964,
+Slovak Rep.,SVK,1964,
+"Slovenia, Rep. of",SVN,1964,
+Spain,ESP,1964,0.498
+Sweden,SWE,1964,0.398
+Switzerland,CHE,1964,0.144
+Turkey,TUR,1964,-0.711
+Ukraine,UKR,1964,
+United Kingdom,GBR,1964,0.027
+United States,USA,1964,-0.283
+World,WLD,1964,-0.252
+Australia,AUS,1965,0.121
+Austria,AUT,1965,-0.884
+"Belarus, Rep. of",BLR,1965,
+Belgium,BEL,1965,
+Brazil,BRA,1965,-0.089
+Bulgaria,BGR,1965,-0.456
+Canada,CAN,1965,-0.871
+"China, P.R.: Mainland",CHN,1965,0.076
+"Croatia, Rep. of",HRV,1965,
+Cyprus,CYP,1965,-0.199
+Czech Rep.,CZE,1965,
+Denmark,DNK,1965,-0.603
+"Estonia, Rep. of",EST,1965,
+Finland,FIN,1965,-0.25
+France,FRA,1965,-0.622
+Germany,DEU,1965,-0.815
+Greece,GRC,1965,-0.333
+Hungary,HUN,1965,-0.883
+Iceland,ISL,1965,-0.134
+Ireland,IRL,1965,-0.558
+Italy,ITA,1965,-0.425
+Japan,JPN,1965,-0.523
+"Kazakhstan, Rep. of",KAZ,1965,
+"Korea, Rep. of",KOR,1965,-0.183
+Latvia,LVA,1965,
+Liechtenstein,LIE,1965,-0.834
+Lithuania,LTU,1965,
+Luxembourg,LUX,1965,
+Malta,MLT,1965,-0.208
+"Netherlands, The",NLD,1965,-0.729
+New Zealand,NZL,1965,-0.452
+Norway,NOR,1965,-0.269
+"Poland, Rep. of",POL,1965,-1.06
+Portugal,PRT,1965,-0.214
+Romania,ROU,1965,-0.661
+Russian Federation,RUS,1965,
+Slovak Rep.,SVK,1965,
+"Slovenia, Rep. of",SVN,1965,
+Spain,ESP,1965,-0.175
+Sweden,SWE,1965,-0.217
+Switzerland,CHE,1965,-0.785
+Turkey,TUR,1965,-0.339
+Ukraine,UKR,1965,
+United Kingdom,GBR,1965,-0.574
+United States,USA,1965,-0.357
+World,WLD,1965,-0.225
+Australia,AUS,1966,-0.245
+Austria,AUT,1966,0.603
+"Belarus, Rep. of",BLR,1966,
+Belgium,BEL,1966,
+Brazil,BRA,1966,0.029
+Bulgaria,BGR,1966,1.151
+Canada,CAN,1966,-0.156
+"China, P.R.: Mainland",CHN,1966,0.18
+"Croatia, Rep. of",HRV,1966,
+Cyprus,CYP,1966,0.657
+Czech Rep.,CZE,1966,
+Denmark,DNK,1966,-0.5
+"Estonia, Rep. of",EST,1966,
+Finland,FIN,1966,-1.793
+France,FRA,1966,0.421
+Germany,DEU,1966,0.406
+Greece,GRC,1966,0.778
+Hungary,HUN,1966,0.756
+Iceland,ISL,1966,-0.53
+Ireland,IRL,1966,-0.037
+Italy,ITA,1966,0.311
+Japan,JPN,1966,0.016
+"Kazakhstan, Rep. of",KAZ,1966,
+"Korea, Rep. of",KOR,1966,0.096
+Latvia,LVA,1966,
+Liechtenstein,LIE,1966,0.414
+Lithuania,LTU,1966,
+Luxembourg,LUX,1966,
+Malta,MLT,1966,0.146
+"Netherlands, The",NLD,1966,0.271
+New Zealand,NZL,1966,-0.212
+Norway,NOR,1966,-1.643
+"Poland, Rep. of",POL,1966,0.552
+Portugal,PRT,1966,0.296
+Romania,ROU,1966,1.063
+Russian Federation,RUS,1966,
+Slovak Rep.,SVK,1966,
+"Slovenia, Rep. of",SVN,1966,
+Spain,ESP,1966,0.415
+Sweden,SWE,1966,-1.665
+Switzerland,CHE,1966,0.468
+Turkey,TUR,1966,1.421
+Ukraine,UKR,1966,
+United Kingdom,GBR,1966,-0.135
+United States,USA,1966,-0.213
+World,WLD,1966,0.201
+Australia,AUS,1967,-0.092
+Austria,AUT,1967,0.678
+"Belarus, Rep. of",BLR,1967,
+Belgium,BEL,1967,
+Brazil,BRA,1967,0.048
+Bulgaria,BGR,1967,0.029
+Canada,CAN,1967,-0.456
+"China, P.R.: Mainland",CHN,1967,-0.286
+"Croatia, Rep. of",HRV,1967,
+Cyprus,CYP,1967,-0.738
+Czech Rep.,CZE,1967,
+Denmark,DNK,1967,0.832
+"Estonia, Rep. of",EST,1967,
+Finland,FIN,1967,1.097
+France,FRA,1967,0.492
+Germany,DEU,1967,0.868
+Greece,GRC,1967,-0.209
+Hungary,HUN,1967,0.599
+Iceland,ISL,1967,-0.631
+Ireland,IRL,1967,-0.013
+Italy,ITA,1967,0.303
+Japan,JPN,1967,0.032
+"Kazakhstan, Rep. of",KAZ,1967,
+"Korea, Rep. of",KOR,1967,0.16
+Latvia,LVA,1967,
+Liechtenstein,LIE,1967,0.549
+Lithuania,LTU,1967,
+Luxembourg,LUX,1967,
+Malta,MLT,1967,0.141
+"Netherlands, The",NLD,1967,0.755
+New Zealand,NZL,1967,-0.157
+Norway,NOR,1967,0.555
+"Poland, Rep. of",POL,1967,1.135
+Portugal,PRT,1967,-0.035
+Romania,ROU,1967,0.296
+Russian Federation,RUS,1967,
+Slovak Rep.,SVK,1967,
+"Slovenia, Rep. of",SVN,1967,
+Spain,ESP,1967,0.16
+Sweden,SWE,1967,0.835
+Switzerland,CHE,1967,0.554
+Turkey,TUR,1967,-0.834
+Ukraine,UKR,1967,
+United Kingdom,GBR,1967,0.221
+United States,USA,1967,0.076
+World,WLD,1967,-0.116
+Australia,AUS,1968,-0.19
+Austria,AUT,1968,0.214
+"Belarus, Rep. of",BLR,1968,
+Belgium,BEL,1968,
+Brazil,BRA,1968,-0.402
+Bulgaria,BGR,1968,0.419
+Canada,CAN,1968,0.478
+"China, P.R.: Mainland",CHN,1968,-0.414
+"Croatia, Rep. of",HRV,1968,
+Cyprus,CYP,1968,-0.011
+Czech Rep.,CZE,1968,
+Denmark,DNK,1968,0.275
+"Estonia, Rep. of",EST,1968,
+Finland,FIN,1968,-1.624
+France,FRA,1968,-0.079
+Germany,DEU,1968,0.204
+Greece,GRC,1968,0.172
+Hungary,HUN,1968,0.389
+Iceland,ISL,1968,-0.671
+Ireland,IRL,1968,0.06
+Italy,ITA,1968,0.016
+Japan,JPN,1968,-0.5
+"Kazakhstan, Rep. of",KAZ,1968,
+"Korea, Rep. of",KOR,1968,-0.686
+Latvia,LVA,1968,
+Liechtenstein,LIE,1968,0.018
+Lithuania,LTU,1968,
+Luxembourg,LUX,1968,
+Malta,MLT,1968,-0.003
+"Netherlands, The",NLD,1968,0.156
+New Zealand,NZL,1968,-0.058
+Norway,NOR,1968,-0.94
+"Poland, Rep. of",POL,1968,0.459
+Portugal,PRT,1968,0.033
+Romania,ROU,1968,0.442
+Russian Federation,RUS,1968,
+Slovak Rep.,SVK,1968,
+"Slovenia, Rep. of",SVN,1968,
+Spain,ESP,1968,0.1
+Sweden,SWE,1968,-0.925
+Switzerland,CHE,1968,-0.062
+Turkey,TUR,1968,-0.033
+Ukraine,UKR,1968,
+United Kingdom,GBR,1968,-0.065
+United States,USA,1968,-0.075
+World,WLD,1968,-0.122
+Australia,AUS,1969,0.115
+Austria,AUT,1969,-0.123
+"Belarus, Rep. of",BLR,1969,
+Belgium,BEL,1969,
+Brazil,BRA,1969,0.335
+Bulgaria,BGR,1969,-0.484
+Canada,CAN,1969,0.001
+"China, P.R.: Mainland",CHN,1969,-0.22
+"Croatia, Rep. of",HRV,1969,
+Cyprus,CYP,1969,0.158
+Czech Rep.,CZE,1969,
+Denmark,DNK,1969,-0.139
+"Estonia, Rep. of",EST,1969,
+Finland,FIN,1969,-0.469
+France,FRA,1969,0.017
+Germany,DEU,1969,-0.11
+Greece,GRC,1969,-0.099
+Hungary,HUN,1969,-0.271
+Iceland,ISL,1969,-0.939
+Ireland,IRL,1969,-0.282
+Italy,ITA,1969,-0.104
+Japan,JPN,1969,-0.05
+"Kazakhstan, Rep. of",KAZ,1969,
+"Korea, Rep. of",KOR,1969,-0.295
+Latvia,LVA,1969,
+Liechtenstein,LIE,1969,-0.012
+Lithuania,LTU,1969,
+Luxembourg,LUX,1969,
+Malta,MLT,1969,-0.103
+"Netherlands, The",NLD,1969,-0.005
+New Zealand,NZL,1969,-0.373
+Norway,NOR,1969,-0.174
+"Poland, Rep. of",POL,1969,-0.492
+Portugal,PRT,1969,-0.356
+Romania,ROU,1969,-0.586
+Russian Federation,RUS,1969,
+Slovak Rep.,SVK,1969,
+"Slovenia, Rep. of",SVN,1969,
+Spain,ESP,1969,-0.292
+Sweden,SWE,1969,-0.205
+Switzerland,CHE,1969,-0.076
+Turkey,TUR,1969,-0.076
+Ukraine,UKR,1969,
+United Kingdom,GBR,1969,-0.208
+United States,USA,1969,-0.264
+World,WLD,1969,-0.091
+Australia,AUS,1970,0.008
+Austria,AUT,1970,-0.549
+"Belarus, Rep. of",BLR,1970,
+Belgium,BEL,1970,
+Brazil,BRA,1970,0.132
+Bulgaria,BGR,1970,0.202
+Canada,CAN,1970,0.427
+"China, P.R.: Mainland",CHN,1970,-0.309
+"Croatia, Rep. of",HRV,1970,
+Cyprus,CYP,1970,0.489
+Czech Rep.,CZE,1970,
+Denmark,DNK,1970,-1.207
+"Estonia, Rep. of",EST,1970,
+Finland,FIN,1970,-0.621
+France,FRA,1970,-0.104
+Germany,DEU,1970,-0.831
+Greece,GRC,1970,0.255
+Hungary,HUN,1970,-0.503
+Iceland,ISL,1970,-0.66
+Ireland,IRL,1970,0.045
+Italy,ITA,1970,-0.155
+Japan,JPN,1970,-0.382
+"Kazakhstan, Rep. of",KAZ,1970,
+"Korea, Rep. of",KOR,1970,-0.497
+Latvia,LVA,1970,
+Liechtenstein,LIE,1970,-0.55
+Lithuania,LTU,1970,
+Luxembourg,LUX,1970,
+Malta,MLT,1970,-0.12
+"Netherlands, The",NLD,1970,-0.584
+New Zealand,NZL,1970,0.598
+Norway,NOR,1970,-0.691
+"Poland, Rep. of",POL,1970,-1.284
+Portugal,PRT,1970,0.057
+Romania,ROU,1970,-0.055
+Russian Federation,RUS,1970,
+Slovak Rep.,SVK,1970,
+"Slovenia, Rep. of",SVN,1970,
+Spain,ESP,1970,0.126
+Sweden,SWE,1970,-1.093
+Switzerland,CHE,1970,-0.486
+Turkey,TUR,1970,0.845
+Ukraine,UKR,1970,
+United Kingdom,GBR,1970,-0.072
+United States,USA,1970,-0.029
+World,WLD,1970,0.153
+Australia,AUS,1971,-0.028
+Austria,AUT,1971,-0.058
+"Belarus, Rep. of",BLR,1971,
+Belgium,BEL,1971,
+Brazil,BRA,1971,-0.133
+Bulgaria,BGR,1971,-0.144
+Canada,CAN,1971,-0.022
+"China, P.R.: Mainland",CHN,1971,0.036
+"Croatia, Rep. of",HRV,1971,
+Cyprus,CYP,1971,-0.217
+Czech Rep.,CZE,1971,
+Denmark,DNK,1971,0.258
+"Estonia, Rep. of",EST,1971,
+Finland,FIN,1971,-0.446
+France,FRA,1971,-0.172
+Germany,DEU,1971,0.034
+Greece,GRC,1971,-0.235
+Hungary,HUN,1971,-0.059
+Iceland,ISL,1971,0.02
+Ireland,IRL,1971,0.328
+Italy,ITA,1971,-0.154
+Japan,JPN,1971,-0.334
+"Kazakhstan, Rep. of",KAZ,1971,
+"Korea, Rep. of",KOR,1971,-0.198
+Latvia,LVA,1971,
+Liechtenstein,LIE,1971,-0.073
+Lithuania,LTU,1971,
+Luxembourg,LUX,1971,
+Malta,MLT,1971,-0.252
+"Netherlands, The",NLD,1971,0.053
+New Zealand,NZL,1971,0.683
+Norway,NOR,1971,-0.076
+"Poland, Rep. of",POL,1971,0.137
+Portugal,PRT,1971,-0.879
+Romania,ROU,1971,-0.027
+Russian Federation,RUS,1971,
+Slovak Rep.,SVK,1971,
+"Slovenia, Rep. of",SVN,1971,
+Spain,ESP,1971,-0.752
+Sweden,SWE,1971,0.034
+Switzerland,CHE,1971,-0.069
+Turkey,TUR,1971,0.032
+Ukraine,UKR,1971,
+United Kingdom,GBR,1971,0.255
+United States,USA,1971,-0.415
+World,WLD,1971,-0.089
+Australia,AUS,1972,0.103
+Austria,AUT,1972,0.108
+"Belarus, Rep. of",BLR,1972,
+Belgium,BEL,1972,
+Brazil,BRA,1972,0.117
+Bulgaria,BGR,1972,0.133
+Canada,CAN,1972,-1.796
+"China, P.R.: Mainland",CHN,1972,0.011
+"Croatia, Rep. of",HRV,1972,
+Cyprus,CYP,1972,-0.559
+Czech Rep.,CZE,1972,
+Denmark,DNK,1972,0.285
+"Estonia, Rep. of",EST,1972,
+Finland,FIN,1972,0.942
+France,FRA,1972,-0.338
+Germany,DEU,1972,-0.014
+Greece,GRC,1972,-0.196
+Hungary,HUN,1972,0.397
+Iceland,ISL,1972,0.81
+Ireland,IRL,1972,-0.282
+Italy,ITA,1972,-0.139
+Japan,JPN,1972,0.23
+"Kazakhstan, Rep. of",KAZ,1972,
+"Korea, Rep. of",KOR,1972,-0.083
+Latvia,LVA,1972,
+Liechtenstein,LIE,1972,0.076
+Lithuania,LTU,1972,
+Luxembourg,LUX,1972,
+Malta,MLT,1972,-0.277
+"Netherlands, The",NLD,1972,-0.113
+New Zealand,NZL,1972,0.113
+Norway,NOR,1972,0.935
+"Poland, Rep. of",POL,1972,0.481
+Portugal,PRT,1972,-0.913
+Romania,ROU,1972,0.377
+Russian Federation,RUS,1972,
+Slovak Rep.,SVK,1972,
+"Slovenia, Rep. of",SVN,1972,
+Spain,ESP,1972,-0.839
+Sweden,SWE,1972,0.794
+Switzerland,CHE,1972,-0.064
+Turkey,TUR,1972,-0.738
+Ukraine,UKR,1972,
+United Kingdom,GBR,1972,-0.056
+United States,USA,1972,-0.251
+World,WLD,1972,-0.193
+Australia,AUS,1973,0.853
+Austria,AUT,1973,-0.031
+"Belarus, Rep. of",BLR,1973,
+Belgium,BEL,1973,
+Brazil,BRA,1973,0.447
+Bulgaria,BGR,1973,-0.429
+Canada,CAN,1973,0.311
+"China, P.R.: Mainland",CHN,1973,0.41
+"Croatia, Rep. of",HRV,1973,
+Cyprus,CYP,1973,-0.328
+Czech Rep.,CZE,1973,
+Denmark,DNK,1973,0.665
+"Estonia, Rep. of",EST,1973,
+Finland,FIN,1973,1.144
+France,FRA,1973,0.042
+Germany,DEU,1973,0.188
+Greece,GRC,1973,-0.374
+Hungary,HUN,1973,-0.026
+Iceland,ISL,1973,-0.068
+Ireland,IRL,1973,0.347
+Italy,ITA,1973,0.033
+Japan,JPN,1973,0.331
+"Kazakhstan, Rep. of",KAZ,1973,
+"Korea, Rep. of",KOR,1973,0.527
+Latvia,LVA,1973,
+Liechtenstein,LIE,1973,-0.028
+Lithuania,LTU,1973,
+Luxembourg,LUX,1973,
+Malta,MLT,1973,0.016
+"Netherlands, The",NLD,1973,0.294
+New Zealand,NZL,1973,0.186
+Norway,NOR,1973,0.921
+"Poland, Rep. of",POL,1973,0.427
+Portugal,PRT,1973,-0.075
+Romania,ROU,1973,-0.223
+Russian Federation,RUS,1973,
+Slovak Rep.,SVK,1973,
+"Slovenia, Rep. of",SVN,1973,
+Spain,ESP,1973,-0.173
+Sweden,SWE,1973,1.147
+Switzerland,CHE,1973,-0.063
+Turkey,TUR,1973,-0.493
+Ukraine,UKR,1973,
+United Kingdom,GBR,1973,0.202
+United States,USA,1973,-0.015
+World,WLD,1973,0.271
+Australia,AUS,1974,-0.354
+Austria,AUT,1974,0.316
+"Belarus, Rep. of",BLR,1974,
+Belgium,BEL,1974,
+Brazil,BRA,1974,-0.16
+Bulgaria,BGR,1974,-0.206
+Canada,CAN,1974,-0.837
+"China, P.R.: Mainland",CHN,1974,-0.006
+"Croatia, Rep. of",HRV,1974,
+Cyprus,CYP,1974,-0.171
+Czech Rep.,CZE,1974,
+Denmark,DNK,1974,0.575
+"Estonia, Rep. of",EST,1974,
+Finland,FIN,1974,1.125
+France,FRA,1974,-0.103
+Germany,DEU,1974,0.318
+Greece,GRC,1974,-0.208
+Hungary,HUN,1974,0.268
+Iceland,ISL,1974,0.552
+Ireland,IRL,1974,-0.226
+Italy,ITA,1974,-0.123
+Japan,JPN,1974,-0.483
+"Kazakhstan, Rep. of",KAZ,1974,
+"Korea, Rep. of",KOR,1974,-0.794
+Latvia,LVA,1974,
+Liechtenstein,LIE,1974,0.173
+Lithuania,LTU,1974,
+Luxembourg,LUX,1974,
+Malta,MLT,1974,-0.216
+"Netherlands, The",NLD,1974,0.234
+New Zealand,NZL,1974,0.354
+Norway,NOR,1974,0.973
+"Poland, Rep. of",POL,1974,0.495
+Portugal,PRT,1974,-0.448
+Romania,ROU,1974,-0.1
+Russian Federation,RUS,1974,
+Slovak Rep.,SVK,1974,
+"Slovenia, Rep. of",SVN,1974,
+Spain,ESP,1974,-0.449
+Sweden,SWE,1974,0.938
+Switzerland,CHE,1974,0.083
+Turkey,TUR,1974,-0.34
+Ukraine,UKR,1974,
+United Kingdom,GBR,1974,-0.064
+United States,USA,1974,0.079
+World,WLD,1974,-0.179
+Australia,AUS,1975,0.051
+Austria,AUT,1975,0.862
+"Belarus, Rep. of",BLR,1975,
+Belgium,BEL,1975,
+Brazil,BRA,1975,-0.113
+Bulgaria,BGR,1975,0.382
+Canada,CAN,1975,0.229
+"China, P.R.: Mainland",CHN,1975,0.28
+"Croatia, Rep. of",HRV,1975,
+Cyprus,CYP,1975,-0.217
+Czech Rep.,CZE,1975,
+Denmark,DNK,1975,1.33
+"Estonia, Rep. of",EST,1975,
+Finland,FIN,1975,1.898
+France,FRA,1975,0.46
+Germany,DEU,1975,1.098
+Greece,GRC,1975,-0.266
+Hungary,HUN,1975,0.863
+Iceland,ISL,1975,-0.383
+Ireland,IRL,1975,0.693
+Italy,ITA,1975,0.061
+Japan,JPN,1975,0.044
+"Kazakhstan, Rep. of",KAZ,1975,
+"Korea, Rep. of",KOR,1975,0.586
+Latvia,LVA,1975,
+Liechtenstein,LIE,1975,0.676
+Lithuania,LTU,1975,
+Luxembourg,LUX,1975,
+Malta,MLT,1975,-0.347
+"Netherlands, The",NLD,1975,1.037
+New Zealand,NZL,1975,0.578
+Norway,NOR,1975,1.063
+"Poland, Rep. of",POL,1975,1.467
+Portugal,PRT,1975,-0.096
+Romania,ROU,1975,0.801
+Russian Federation,RUS,1975,
+Slovak Rep.,SVK,1975,
+"Slovenia, Rep. of",SVN,1975,
+Spain,ESP,1975,-0.106
+Sweden,SWE,1975,1.576
+Switzerland,CHE,1975,0.613
+Turkey,TUR,1975,-0.136
+Ukraine,UKR,1975,
+United Kingdom,GBR,1975,0.602
+United States,USA,1975,-0.393
+World,WLD,1975,0.091
+Australia,AUS,1976,-0.521
+Austria,AUT,1976,0.216
+"Belarus, Rep. of",BLR,1976,
+Belgium,BEL,1976,
+Brazil,BRA,1976,-0.173
+Bulgaria,BGR,1976,-0.852
+Canada,CAN,1976,0.085
+"China, P.R.: Mainland",CHN,1976,-0.389
+"Croatia, Rep. of",HRV,1976,
+Cyprus,CYP,1976,-0.711
+Czech Rep.,CZE,1976,
+Denmark,DNK,1976,0.295
+"Estonia, Rep. of",EST,1976,
+Finland,FIN,1976,-0.872
+France,FRA,1976,0.347
+Germany,DEU,1976,0.468
+Greece,GRC,1976,-0.921
+Hungary,HUN,1976,-0.267
+Iceland,ISL,1976,0.428
+Ireland,IRL,1976,0.546
+Italy,ITA,1976,-0.332
+Japan,JPN,1976,-0.503
+"Kazakhstan, Rep. of",KAZ,1976,
+"Korea, Rep. of",KOR,1976,-0.481
+Latvia,LVA,1976,
+Liechtenstein,LIE,1976,0.288
+Lithuania,LTU,1976,
+Luxembourg,LUX,1976,
+Malta,MLT,1976,-0.67
+"Netherlands, The",NLD,1976,0.712
+New Zealand,NZL,1976,-0.519
+Norway,NOR,1976,-0.035
+"Poland, Rep. of",POL,1976,-0.302
+Portugal,PRT,1976,-0.36
+Romania,ROU,1976,-0.813
+Russian Federation,RUS,1976,
+Slovak Rep.,SVK,1976,
+"Slovenia, Rep. of",SVN,1976,
+Spain,ESP,1976,-0.383
+Sweden,SWE,1976,-0.107
+Switzerland,CHE,1976,0.357
+Turkey,TUR,1976,-1.169
+Ukraine,UKR,1976,
+United Kingdom,GBR,1976,0.727
+United States,USA,1976,-0.13
+World,WLD,1976,-0.31
+Australia,AUS,1977,0.176
+Austria,AUT,1977,0.5
+"Belarus, Rep. of",BLR,1977,
+Belgium,BEL,1977,
+Brazil,BRA,1977,0.258
+Bulgaria,BGR,1977,0.556
+Canada,CAN,1977,1.084
+"China, P.R.: Mainland",CHN,1977,-0.057
+"Croatia, Rep. of",HRV,1977,
+Cyprus,CYP,1977,0.148
+Czech Rep.,CZE,1977,
+Denmark,DNK,1977,-0.019
+"Estonia, Rep. of",EST,1977,
+Finland,FIN,1977,-0.222
+France,FRA,1977,0.004
+Germany,DEU,1977,0.28
+Greece,GRC,1977,0.325
+Hungary,HUN,1977,0.554
+Iceland,ISL,1977,-0.234
+Ireland,IRL,1977,-0.297
+Italy,ITA,1977,0.276
+Japan,JPN,1977,-0.153
+"Kazakhstan, Rep. of",KAZ,1977,
+"Korea, Rep. of",KOR,1977,0.133
+Latvia,LVA,1977,
+Liechtenstein,LIE,1977,0.267
+Lithuania,LTU,1977,
+Luxembourg,LUX,1977,
+Malta,MLT,1977,0.336
+"Netherlands, The",NLD,1977,0.159
+New Zealand,NZL,1977,-0.396
+Norway,NOR,1977,-0.546
+"Poland, Rep. of",POL,1977,0.428
+Portugal,PRT,1977,-0.275
+Romania,ROU,1977,0.531
+Russian Federation,RUS,1977,
+Slovak Rep.,SVK,1977,
+"Slovenia, Rep. of",SVN,1977,
+Spain,ESP,1977,-0.177
+Sweden,SWE,1977,-0.461
+Switzerland,CHE,1977,0.165
+Turkey,TUR,1977,0.176
+Ukraine,UKR,1977,
+United Kingdom,GBR,1977,-0.326
+United States,USA,1977,0.394
+World,WLD,1977,0.273
+Australia,AUS,1978,0.069
+Austria,AUT,1978,-0.474
+"Belarus, Rep. of",BLR,1978,
+Belgium,BEL,1978,
+Brazil,BRA,1978,0.049
+Bulgaria,BGR,1978,-0.725
+Canada,CAN,1978,-0.602
+"China, P.R.: Mainland",CHN,1978,0.242
+"Croatia, Rep. of",HRV,1978,
+Cyprus,CYP,1978,-0.02
+Czech Rep.,CZE,1978,
+Denmark,DNK,1978,0.145
+"Estonia, Rep. of",EST,1978,
+Finland,FIN,1978,-0.521
+France,FRA,1978,-0.228
+Germany,DEU,1978,-0.176
+Greece,GRC,1978,-0.565
+Hungary,HUN,1978,-0.864
+Iceland,ISL,1978,0.051
+Ireland,IRL,1978,0.239
+Italy,ITA,1978,-0.545
+Japan,JPN,1978,0.237
+"Kazakhstan, Rep. of",KAZ,1978,
+"Korea, Rep. of",KOR,1978,0.803
+Latvia,LVA,1978,
+Liechtenstein,LIE,1978,-0.36
+Lithuania,LTU,1978,
+Luxembourg,LUX,1978,
+Malta,MLT,1978,-0.573
+"Netherlands, The",NLD,1978,-0.071
+New Zealand,NZL,1978,0.377
+Norway,NOR,1978,-0.093
+"Poland, Rep. of",POL,1978,-0.226
+Portugal,PRT,1978,0.176
+Romania,ROU,1978,-0.832
+Russian Federation,RUS,1978,
+Slovak Rep.,SVK,1978,
+"Slovenia, Rep. of",SVN,1978,
+Spain,ESP,1978,0.086
+Sweden,SWE,1978,-0.069
+Switzerland,CHE,1978,-0.369
+Turkey,TUR,1978,-0.068
+Ukraine,UKR,1978,
+United Kingdom,GBR,1978,0.063
+United States,USA,1978,0.039
+World,WLD,1978,0.006
+Australia,AUS,1979,0.364
+Austria,AUT,1979,-0.11
+"Belarus, Rep. of",BLR,1979,
+Belgium,BEL,1979,
+Brazil,BRA,1979,0.023
+Bulgaria,BGR,1979,0.156
+Canada,CAN,1979,-0.212
+"China, P.R.: Mainland",CHN,1979,0.3
+"Croatia, Rep. of",HRV,1979,
+Cyprus,CYP,1979,0.616
+Czech Rep.,CZE,1979,
+Denmark,DNK,1979,-1.189
+"Estonia, Rep. of",EST,1979,
+Finland,FIN,1979,-0.751
+France,FRA,1979,-0.196
+Germany,DEU,1979,-0.643
+Greece,GRC,1979,0.171
+Hungary,HUN,1979,0.055
+Iceland,ISL,1979,-1.302
+Ireland,IRL,1979,-0.705
+Italy,ITA,1979,0.01
+Japan,JPN,1979,0.465
+"Kazakhstan, Rep. of",KAZ,1979,
+"Korea, Rep. of",KOR,1979,0.61
+Latvia,LVA,1979,
+Liechtenstein,LIE,1979,-0.088
+Lithuania,LTU,1979,
+Luxembourg,LUX,1979,
+Malta,MLT,1979,0.062
+"Netherlands, The",NLD,1979,-0.91
+New Zealand,NZL,1979,0.304
+Norway,NOR,1979,-1.061
+"Poland, Rep. of",POL,1979,-0.77
+Portugal,PRT,1979,0.173
+Romania,ROU,1979,0.153
+Russian Federation,RUS,1979,
+Slovak Rep.,SVK,1979,
+"Slovenia, Rep. of",SVN,1979,
+Spain,ESP,1979,0.259
+Sweden,SWE,1979,-1.087
+Switzerland,CHE,1979,-0.07
+Turkey,TUR,1979,0.9
+Ukraine,UKR,1979,
+United Kingdom,GBR,1979,-0.789
+United States,USA,1979,-0.298
+World,WLD,1979,0.227
+Australia,AUS,1980,0.869
+Austria,AUT,1980,-0.272
+"Belarus, Rep. of",BLR,1980,
+Belgium,BEL,1980,
+Brazil,BRA,1980,0.321
+Bulgaria,BGR,1980,-0.462
+Canada,CAN,1980,0.922
+"China, P.R.: Mainland",CHN,1980,0.253
+"Croatia, Rep. of",HRV,1980,
+Cyprus,CYP,1980,-0.289
+Czech Rep.,CZE,1980,
+Denmark,DNK,1980,-0.437
+"Estonia, Rep. of",EST,1980,
+Finland,FIN,1980,-0.377
+France,FRA,1980,-0.228
+Germany,DEU,1980,-0.19
+Greece,GRC,1980,-0.389
+Hungary,HUN,1980,-0.611
+Iceland,ISL,1980,0.327
+Ireland,IRL,1980,-0.076
+Italy,ITA,1980,-0.435
+Japan,JPN,1980,-0.203
+"Kazakhstan, Rep. of",KAZ,1980,
+"Korea, Rep. of",KOR,1980,-0.454
+Latvia,LVA,1980,
+Liechtenstein,LIE,1980,-0.166
+Lithuania,LTU,1980,
+Luxembourg,LUX,1980,
+Malta,MLT,1980,-0.489
+"Netherlands, The",NLD,1980,0.005
+New Zealand,NZL,1980,-0.006
+Norway,NOR,1980,-0.304
+"Poland, Rep. of",POL,1980,-0.753
+Portugal,PRT,1980,0.284
+Romania,ROU,1980,-0.644
+Russian Federation,RUS,1980,
+Slovak Rep.,SVK,1980,
+"Slovenia, Rep. of",SVN,1980,
+Spain,ESP,1980,0.162
+Sweden,SWE,1980,-0.566
+Switzerland,CHE,1980,-0.202
+Turkey,TUR,1980,-0.102
+Ukraine,UKR,1980,
+United Kingdom,GBR,1980,-0.03
+United States,USA,1980,0.413
+World,WLD,1980,0.335
+Australia,AUS,1981,0.466
+Austria,AUT,1981,0.279
+"Belarus, Rep. of",BLR,1981,
+Belgium,BEL,1981,
+Brazil,BRA,1981,0.188
+Bulgaria,BGR,1981,-0.061
+Canada,CAN,1981,1.566
+"China, P.R.: Mainland",CHN,1981,0.22
+"Croatia, Rep. of",HRV,1981,
+Cyprus,CYP,1981,0.097
+Czech Rep.,CZE,1981,
+Denmark,DNK,1981,0.304
+"Estonia, Rep. of",EST,1981,
+Finland,FIN,1981,-0.237
+France,FRA,1981,0.079
+Germany,DEU,1981,0.293
+Greece,GRC,1981,-0.203
+Hungary,HUN,1981,0.154
+Iceland,ISL,1981,-0.978
+Ireland,IRL,1981,0.355
+Italy,ITA,1981,-0.291
+Japan,JPN,1981,-0.637
+"Kazakhstan, Rep. of",KAZ,1981,
+"Korea, Rep. of",KOR,1981,-0.752
+Latvia,LVA,1981,
+Liechtenstein,LIE,1981,0.043
+Lithuania,LTU,1981,
+Luxembourg,LUX,1981,
+Malta,MLT,1981,-0.317
+"Netherlands, The",NLD,1981,0.333
+New Zealand,NZL,1981,0.417
+Norway,NOR,1981,-0.483
+"Poland, Rep. of",POL,1981,0.443
+Portugal,PRT,1981,0.552
+Romania,ROU,1981,0.038
+Russian Federation,RUS,1981,
+Slovak Rep.,SVK,1981,
+"Slovenia, Rep. of",SVN,1981,
+Spain,ESP,1981,0.321
+Sweden,SWE,1981,-0.223
+Switzerland,CHE,1981,-0.023
+Turkey,TUR,1981,0.396
+Ukraine,UKR,1981,
+United Kingdom,GBR,1981,0.165
+United States,USA,1981,0.871
+World,WLD,1981,0.443
+Australia,AUS,1982,0.159
+Austria,AUT,1982,0.389
+"Belarus, Rep. of",BLR,1982,
+Belgium,BEL,1982,
+Brazil,BRA,1982,0.277
+Bulgaria,BGR,1982,-0.139
+Canada,CAN,1982,-0.665
+"China, P.R.: Mainland",CHN,1982,0.382
+"Croatia, Rep. of",HRV,1982,
+Cyprus,CYP,1982,-0.326
+Czech Rep.,CZE,1982,
+Denmark,DNK,1982,0.006
+"Estonia, Rep. of",EST,1982,
+Finland,FIN,1982,-0.153
+France,FRA,1982,0.796
+Germany,DEU,1982,0.436
+Greece,GRC,1982,-0.25
+Hungary,HUN,1982,0.112
+Iceland,ISL,1982,-0.323
+Ireland,IRL,1982,0.133
+Italy,ITA,1982,0.502
+Japan,JPN,1982,-0.05
+"Kazakhstan, Rep. of",KAZ,1982,
+"Korea, Rep. of",KOR,1982,0.437
+Latvia,LVA,1982,
+Liechtenstein,LIE,1982,0.546
+Lithuania,LTU,1982,
+Luxembourg,LUX,1982,
+Malta,MLT,1982,0.653
+"Netherlands, The",NLD,1982,0.462
+New Zealand,NZL,1982,-0.073
+Norway,NOR,1982,-0.042
+"Poland, Rep. of",POL,1982,0.329
+Portugal,PRT,1982,0.564
+Romania,ROU,1982,-0.064
+Russian Federation,RUS,1982,
+Slovak Rep.,SVK,1982,
+"Slovenia, Rep. of",SVN,1982,
+Spain,ESP,1982,0.692
+Sweden,SWE,1982,-0.129
+Switzerland,CHE,1982,0.572
+Turkey,TUR,1982,-0.227
+Ukraine,UKR,1982,
+United Kingdom,GBR,1982,0.106
+United States,USA,1982,-0.34
+World,WLD,1982,0.084
+Australia,AUS,1983,0.608
+Austria,AUT,1983,1.068
+"Belarus, Rep. of",BLR,1983,
+Belgium,BEL,1983,
+Brazil,BRA,1983,0.478
+Bulgaria,BGR,1983,0.376
+Canada,CAN,1983,0.497
+"China, P.R.: Mainland",CHN,1983,0.124
+"Croatia, Rep. of",HRV,1983,
+Cyprus,CYP,1983,-0.799
+Czech Rep.,CZE,1983,
+Denmark,DNK,1983,1.065
+"Estonia, Rep. of",EST,1983,
+Finland,FIN,1983,0.966
+France,FRA,1983,0.704
+Germany,DEU,1983,1.067
+Greece,GRC,1983,-0.502
+Hungary,HUN,1983,0.999
+Iceland,ISL,1983,-0.895
+Ireland,IRL,1983,0.384
+Italy,ITA,1983,0.377
+Japan,JPN,1983,0.092
+"Kazakhstan, Rep. of",KAZ,1983,
+"Korea, Rep. of",KOR,1983,0.468
+Latvia,LVA,1983,
+Liechtenstein,LIE,1983,0.948
+Lithuania,LTU,1983,
+Luxembourg,LUX,1983,
+Malta,MLT,1983,0.074
+"Netherlands, The",NLD,1983,0.865
+New Zealand,NZL,1983,-0.303
+Norway,NOR,1983,0.644
+"Poland, Rep. of",POL,1983,1.455
+Portugal,PRT,1983,0.296
+Romania,ROU,1983,0.828
+Russian Federation,RUS,1983,
+Slovak Rep.,SVK,1983,
+"Slovenia, Rep. of",SVN,1983,
+Spain,ESP,1983,0.529
+Sweden,SWE,1983,0.917
+Switzerland,CHE,1983,0.859
+Turkey,TUR,1983,-0.452
+Ukraine,UKR,1983,
+United Kingdom,GBR,1983,0.337
+United States,USA,1983,0.533
+World,WLD,1983,0.459
+Australia,AUS,1984,-0.186
+Austria,AUT,1984,-0.242
+"Belarus, Rep. of",BLR,1984,
+Belgium,BEL,1984,
+Brazil,BRA,1984,0.285
+Bulgaria,BGR,1984,-0.031
+Canada,CAN,1984,0.347
+"China, P.R.: Mainland",CHN,1984,-0.145
+"Croatia, Rep. of",HRV,1984,
+Cyprus,CYP,1984,0.007
+Czech Rep.,CZE,1984,
+Denmark,DNK,1984,0.386
+"Estonia, Rep. of",EST,1984,
+Finland,FIN,1984,0.759
+France,FRA,1984,-0.098
+Germany,DEU,1984,-0.115
+Greece,GRC,1984,-0.135
+Hungary,HUN,1984,-0.126
+Iceland,ISL,1984,0.178
+Ireland,IRL,1984,0.318
+Italy,ITA,1984,-0.468
+Japan,JPN,1984,-0.624
+"Kazakhstan, Rep. of",KAZ,1984,
+"Korea, Rep. of",KOR,1984,-0.265
+Latvia,LVA,1984,
+Liechtenstein,LIE,1984,-0.365
+Lithuania,LTU,1984,
+Luxembourg,LUX,1984,
+Malta,MLT,1984,-0.23
+"Netherlands, The",NLD,1984,0.055
+New Zealand,NZL,1984,0.161
+Norway,NOR,1984,0.544
+"Poland, Rep. of",POL,1984,0.241
+Portugal,PRT,1984,-0.118
+Romania,ROU,1984,-0.137
+Russian Federation,RUS,1984,
+Slovak Rep.,SVK,1984,
+"Slovenia, Rep. of",SVN,1984,
+Spain,ESP,1984,-0.185
+Sweden,SWE,1984,0.589
+Switzerland,CHE,1984,-0.34
+Turkey,TUR,1984,0.331
+Ukraine,UKR,1984,
+United Kingdom,GBR,1984,0.325
+United States,USA,1984,-0.229
+World,WLD,1984,0.124
+Australia,AUS,1985,0.323
+Austria,AUT,1985,-0.56
+"Belarus, Rep. of",BLR,1985,
+Belgium,BEL,1985,
+Brazil,BRA,1985,0.108
+Bulgaria,BGR,1985,-0.615
+Canada,CAN,1985,-0.296
+"China, P.R.: Mainland",CHN,1985,-0.121
+"Croatia, Rep. of",HRV,1985,
+Cyprus,CYP,1985,-0.078
+Czech Rep.,CZE,1985,
+Denmark,DNK,1985,-0.996
+"Estonia, Rep. of",EST,1985,
+Finland,FIN,1985,-1.173
+France,FRA,1985,-0.351
+Germany,DEU,1985,-0.804
+Greece,GRC,1985,-0.077
+Hungary,HUN,1985,-1.056
+Iceland,ISL,1985,0.15
+Ireland,IRL,1985,-0.454
+Italy,ITA,1985,0.115
+Japan,JPN,1985,0.114
+"Kazakhstan, Rep. of",KAZ,1985,
+"Korea, Rep. of",KOR,1985,0.282
+Latvia,LVA,1985,
+Liechtenstein,LIE,1985,-0.329
+Lithuania,LTU,1985,
+Luxembourg,LUX,1985,
+Malta,MLT,1985,0.464
+"Netherlands, The",NLD,1985,-0.855
+New Zealand,NZL,1985,0.384
+Norway,NOR,1985,-0.583
+"Poland, Rep. of",POL,1985,-1.042
+Portugal,PRT,1985,0.534
+Romania,ROU,1985,-1.197
+Russian Federation,RUS,1985,
+Slovak Rep.,SVK,1985,
+"Slovenia, Rep. of",SVN,1985,
+Spain,ESP,1985,0.464
+Sweden,SWE,1985,-1.028
+Switzerland,CHE,1985,-0.336
+Turkey,TUR,1985,-0.078
+Ukraine,UKR,1985,
+United Kingdom,GBR,1985,-0.533
+United States,USA,1985,-0.027
+World,WLD,1985,-0.03
+Australia,AUS,1986,0.358
+Austria,AUT,1986,0.325
+"Belarus, Rep. of",BLR,1986,
+Belgium,BEL,1986,
+Brazil,BRA,1986,0.28
+Bulgaria,BGR,1986,0.345
+Canada,CAN,1986,0.021
+"China, P.R.: Mainland",CHN,1986,-0.039
+"Croatia, Rep. of",HRV,1986,
+Cyprus,CYP,1986,0.235
+Czech Rep.,CZE,1986,
+Denmark,DNK,1986,-0.437
+"Estonia, Rep. of",EST,1986,
+Finland,FIN,1986,-0.179
+France,FRA,1986,-0.017
+Germany,DEU,1986,-0.011
+Greece,GRC,1986,0.296
+Hungary,HUN,1986,0.37
+Iceland,ISL,1986,-0.093
+Ireland,IRL,1986,-0.741
+Italy,ITA,1986,0.439
+Japan,JPN,1986,-0.699
+"Kazakhstan, Rep. of",KAZ,1986,
+"Korea, Rep. of",KOR,1986,-0.743
+Latvia,LVA,1986,
+Liechtenstein,LIE,1986,0.387
+Lithuania,LTU,1986,
+Luxembourg,LUX,1986,
+Malta,MLT,1986,0.423
+"Netherlands, The",NLD,1986,-0.198
+New Zealand,NZL,1986,0.37
+Norway,NOR,1986,-0.421
+"Poland, Rep. of",POL,1986,0.018
+Portugal,PRT,1986,0.099
+Romania,ROU,1986,0.427
+Russian Federation,RUS,1986,
+Slovak Rep.,SVK,1986,
+"Slovenia, Rep. of",SVN,1986,
+Spain,ESP,1986,0.232
+Sweden,SWE,1986,-0.488
+Switzerland,CHE,1986,0.232
+Turkey,TUR,1986,0.415
+Ukraine,UKR,1986,
+United Kingdom,GBR,1986,-0.605
+United States,USA,1986,0.578
+World,WLD,1986,0.242
+Australia,AUS,1987,0.329
+Austria,AUT,1987,-0.256
+"Belarus, Rep. of",BLR,1987,
+Belgium,BEL,1987,
+Brazil,BRA,1987,0.708
+Bulgaria,BGR,1987,-0.496
+Canada,CAN,1987,1.35
+"China, P.R.: Mainland",CHN,1987,0.43
+"Croatia, Rep. of",HRV,1987,
+Cyprus,CYP,1987,-0.285
+Czech Rep.,CZE,1987,
+Denmark,DNK,1987,-0.98
+"Estonia, Rep. of",EST,1987,
+Finland,FIN,1987,-1.652
+France,FRA,1987,-0.024
+Germany,DEU,1987,-0.565
+Greece,GRC,1987,-0.405
+Hungary,HUN,1987,-0.531
+Iceland,ISL,1987,0.68
+Ireland,IRL,1987,-0.161
+Italy,ITA,1987,0.183
+Japan,JPN,1987,0.311
+"Kazakhstan, Rep. of",KAZ,1987,
+"Korea, Rep. of",KOR,1987,0.395
+Latvia,LVA,1987,
+Liechtenstein,LIE,1987,-0.04
+Lithuania,LTU,1987,
+Luxembourg,LUX,1987,
+Malta,MLT,1987,0.532
+"Netherlands, The",NLD,1987,-0.505
+New Zealand,NZL,1987,0.393
+Norway,NOR,1987,-0.818
+"Poland, Rep. of",POL,1987,-1.079
+Portugal,PRT,1987,0.747
+Romania,ROU,1987,-0.731
+Russian Federation,RUS,1987,
+Slovak Rep.,SVK,1987,
+"Slovenia, Rep. of",SVN,1987,
+Spain,ESP,1987,0.694
+Sweden,SWE,1987,-1.196
+Switzerland,CHE,1987,-0.021
+Turkey,TUR,1987,-0.412
+Ukraine,UKR,1987,
+United Kingdom,GBR,1987,-0.294
+United States,USA,1987,0.904
+World,WLD,1987,0.4
+Australia,AUS,1988,0.932
+Austria,AUT,1988,0.827
+"Belarus, Rep. of",BLR,1988,
+Belgium,BEL,1988,
+Brazil,BRA,1988,0.48
+Bulgaria,BGR,1988,0.122
+Canada,CAN,1988,1.213
+"China, P.R.: Mainland",CHN,1988,0.398
+"Croatia, Rep. of",HRV,1988,
+Cyprus,CYP,1988,0.018
+Czech Rep.,CZE,1988,
+Denmark,DNK,1988,0.926
+"Estonia, Rep. of",EST,1988,
+Finland,FIN,1988,0.579
+France,FRA,1988,0.751
+Germany,DEU,1988,0.887
+Greece,GRC,1988,0.118
+Hungary,HUN,1988,0.401
+Iceland,ISL,1988,-0.097
+Ireland,IRL,1988,0.231
+Italy,ITA,1988,0.824
+Japan,JPN,1988,-0.17
+"Kazakhstan, Rep. of",KAZ,1988,
+"Korea, Rep. of",KOR,1988,0.277
+Latvia,LVA,1988,
+Liechtenstein,LIE,1988,0.933
+Lithuania,LTU,1988,
+Luxembourg,LUX,1988,
+Malta,MLT,1988,1.183
+"Netherlands, The",NLD,1988,0.793
+New Zealand,NZL,1988,0.496
+Norway,NOR,1988,0.489
+"Poland, Rep. of",POL,1988,0.68
+Portugal,PRT,1988,0.631
+Romania,ROU,1988,0.096
+Russian Federation,RUS,1988,
+Slovak Rep.,SVK,1988,
+"Slovenia, Rep. of",SVN,1988,
+Spain,ESP,1988,0.762
+Sweden,SWE,1988,0.731
+Switzerland,CHE,1988,0.904
+Turkey,TUR,1988,-0.32
+Ukraine,UKR,1988,
+United Kingdom,GBR,1988,0.299
+United States,USA,1988,0.463
+World,WLD,1988,0.56
+Australia,AUS,1989,0.132
+Austria,AUT,1989,1.11
+"Belarus, Rep. of",BLR,1989,
+Belgium,BEL,1989,
+Brazil,BRA,1989,0.166
+Bulgaria,BGR,1989,0.4
+Canada,CAN,1989,0.034
+"China, P.R.: Mainland",CHN,1989,0.424
+"Croatia, Rep. of",HRV,1989,
+Cyprus,CYP,1989,0.073
+Czech Rep.,CZE,1989,
+Denmark,DNK,1989,1.802
+"Estonia, Rep. of",EST,1989,
+Finland,FIN,1989,2.175
+France,FRA,1989,1.254
+Germany,DEU,1989,1.484
+Greece,GRC,1989,-0.217
+Hungary,HUN,1989,0.881
+Iceland,ISL,1989,-0.19
+Ireland,IRL,1989,1.028
+Italy,ITA,1989,0.398
+Japan,JPN,1989,0.541
+"Kazakhstan, Rep. of",KAZ,1989,
+"Korea, Rep. of",KOR,1989,0.804
+Latvia,LVA,1989,
+Liechtenstein,LIE,1989,1.09
+Lithuania,LTU,1989,
+Luxembourg,LUX,1989,
+Malta,MLT,1989,0.196
+"Netherlands, The",NLD,1989,1.535
+New Zealand,NZL,1989,0.742
+Norway,NOR,1989,1.755
+"Poland, Rep. of",POL,1989,1.692
+Portugal,PRT,1989,1.125
+Romania,ROU,1989,0.753
+Russian Federation,RUS,1989,
+Slovak Rep.,SVK,1989,
+"Slovenia, Rep. of",SVN,1989,
+Spain,ESP,1989,1.002
+Sweden,SWE,1989,2.002
+Switzerland,CHE,1989,1.126
+Turkey,TUR,1989,0.334
+Ukraine,UKR,1989,
+United Kingdom,GBR,1989,1.137
+United States,USA,1989,0.319
+World,WLD,1989,0.335
+Australia,AUS,1990,0.534
+Austria,AUT,1990,1.268
+"Belarus, Rep. of",BLR,1990,
+Belgium,BEL,1990,
+Brazil,BRA,1990,0.476
+Bulgaria,BGR,1990,0.788
+Canada,CAN,1990,0.09
+"China, P.R.: Mainland",CHN,1990,0.846
+"Croatia, Rep. of",HRV,1990,
+Cyprus,CYP,1990,0.049
+Czech Rep.,CZE,1990,
+Denmark,DNK,1990,1.845
+"Estonia, Rep. of",EST,1990,
+Finland,FIN,1990,1.246
+France,FRA,1990,1.567
+Germany,DEU,1990,1.565
+Greece,GRC,1990,0.34
+Hungary,HUN,1990,1.088
+Iceland,ISL,1990,0.148
+Ireland,IRL,1990,0.803
+Italy,ITA,1990,1.112
+Japan,JPN,1990,1.12
+"Kazakhstan, Rep. of",KAZ,1990,
+"Korea, Rep. of",KOR,1990,1.251
+Latvia,LVA,1990,
+Liechtenstein,LIE,1990,1.31
+Lithuania,LTU,1990,
+Luxembourg,LUX,1990,
+Malta,MLT,1990,1.214
+"Netherlands, The",NLD,1990,1.559
+New Zealand,NZL,1990,0.568
+Norway,NOR,1990,1.532
+"Poland, Rep. of",POL,1990,1.707
+Portugal,PRT,1990,1.405
+Romania,ROU,1990,1.104
+Russian Federation,RUS,1990,
+Slovak Rep.,SVK,1990,
+"Slovenia, Rep. of",SVN,1990,
+Spain,ESP,1990,1.412
+Sweden,SWE,1990,1.697
+Switzerland,CHE,1990,1.401
+Turkey,TUR,1990,-0.068
+Ukraine,UKR,1990,
+United Kingdom,GBR,1990,1.006
+United States,USA,1990,0.665
+World,WLD,1990,0.645
+Australia,AUS,1991,0.806
+Austria,AUT,1991,0.13
+"Belarus, Rep. of",BLR,1991,
+Belgium,BEL,1991,
+Brazil,BRA,1991,0.497
+Bulgaria,BGR,1991,-0.162
+Canada,CAN,1991,0.35
+"China, P.R.: Mainland",CHN,1991,0.51
+"Croatia, Rep. of",HRV,1991,
+Cyprus,CYP,1991,0.345
+Czech Rep.,CZE,1991,
+Denmark,DNK,1991,0.617
+"Estonia, Rep. of",EST,1991,
+Finland,FIN,1991,1.133
+France,FRA,1991,0.226
+Germany,DEU,1991,0.279
+Greece,GRC,1991,-0.218
+Hungary,HUN,1991,-0.041
+Iceland,ISL,1991,0.753
+Ireland,IRL,1991,0.179
+Italy,ITA,1991,0.002
+Japan,JPN,1991,0.711
+"Kazakhstan, Rep. of",KAZ,1991,
+"Korea, Rep. of",KOR,1991,0.302
+Latvia,LVA,1991,
+Liechtenstein,LIE,1991,0.184
+Lithuania,LTU,1991,
+Luxembourg,LUX,1991,
+Malta,MLT,1991,0.119
+"Netherlands, The",NLD,1991,0.256
+New Zealand,NZL,1991,-0.029
+Norway,NOR,1991,0.992
+"Poland, Rep. of",POL,1991,0.409
+Portugal,PRT,1991,0.441
+Romania,ROU,1991,0.038
+Russian Federation,RUS,1991,
+Slovak Rep.,SVK,1991,
+"Slovenia, Rep. of",SVN,1991,
+Spain,ESP,1991,0.171
+Sweden,SWE,1991,1.028
+Switzerland,CHE,1991,0.306
+Turkey,TUR,1991,0.2
+Ukraine,UKR,1991,
+United Kingdom,GBR,1991,0.199
+United States,USA,1991,0.52
+World,WLD,1991,0.47
+Australia,AUS,1992,0.268
+Austria,AUT,1992,1.25
+"Belarus, Rep. of",BLR,1992,1.271
+Belgium,BEL,1992,
+Brazil,BRA,1992,0.433
+Bulgaria,BGR,1992,0.139
+Canada,CAN,1992,0.116
+"China, P.R.: Mainland",CHN,1992,0.113
+"Croatia, Rep. of",HRV,1992,0.829
+Cyprus,CYP,1992,-0.964
+Czech Rep.,CZE,1992,
+Denmark,DNK,1992,1.451
+"Estonia, Rep. of",EST,1992,1.588
+Finland,FIN,1992,1.159
+France,FRA,1992,0.631
+Germany,DEU,1992,1.22
+Greece,GRC,1992,-0.548
+Hungary,HUN,1992,0.921
+Iceland,ISL,1992,0.209
+Ireland,IRL,1992,0.429
+Italy,ITA,1992,0.512
+Japan,JPN,1992,0.318
+"Kazakhstan, Rep. of",KAZ,1992,0.275
+"Korea, Rep. of",KOR,1992,0.637
+Latvia,LVA,1992,1.567
+Liechtenstein,LIE,1992,1.086
+Lithuania,LTU,1992,1.482
+Luxembourg,LUX,1992,
+Malta,MLT,1992,0.242
+"Netherlands, The",NLD,1992,1.174
+New Zealand,NZL,1992,-0.717
+Norway,NOR,1992,1.134
+"Poland, Rep. of",POL,1992,1.143
+Portugal,PRT,1992,0.431
+Romania,ROU,1992,0.367
+Russian Federation,RUS,1992,0.364
+Slovak Rep.,SVK,1992,
+"Slovenia, Rep. of",SVN,1992,1.169
+Spain,ESP,1992,0.273
+Sweden,SWE,1992,1.378
+Switzerland,CHE,1992,0.948
+Turkey,TUR,1992,-1.27
+Ukraine,UKR,1992,0.459
+United Kingdom,GBR,1992,0.512
+United States,USA,1992,0.387
+World,WLD,1992,0.187
+Australia,AUS,1993,0.466
+Austria,AUT,1993,0.529
+"Belarus, Rep. of",BLR,1993,0.023
+Belgium,BEL,1993,
+Brazil,BRA,1993,0.53
+Bulgaria,BGR,1993,-0.329
+Canada,CAN,1993,0.362
+"China, P.R.: Mainland",CHN,1993,0.265
+"Croatia, Rep. of",HRV,1993,0.402
+Cyprus,CYP,1993,-0.457
+Czech Rep.,CZE,1993,0.286
+Denmark,DNK,1993,0.236
+"Estonia, Rep. of",EST,1993,0.525
+Finland,FIN,1993,0.929
+France,FRA,1993,0.302
+Germany,DEU,1993,0.304
+Greece,GRC,1993,-0.341
+Hungary,HUN,1993,0.085
+Iceland,ISL,1993,0.201
+Ireland,IRL,1993,0.047
+Italy,ITA,1993,0.498
+Japan,JPN,1993,-0.004
+"Kazakhstan, Rep. of",KAZ,1993,-0.375
+"Korea, Rep. of",KOR,1993,0.055
+Latvia,LVA,1993,0.375
+Liechtenstein,LIE,1993,0.632
+Lithuania,LTU,1993,0.295
+Luxembourg,LUX,1993,
+Malta,MLT,1993,0.597
+"Netherlands, The",NLD,1993,0.242
+New Zealand,NZL,1993,-0.387
+Norway,NOR,1993,0.712
+"Poland, Rep. of",POL,1993,0.067
+Portugal,PRT,1993,-0.202
+Romania,ROU,1993,-0.423
+Russian Federation,RUS,1993,0.954
+Slovak Rep.,SVK,1993,0.032
+"Slovenia, Rep. of",SVN,1993,0.576
+Spain,ESP,1993,-0.095
+Sweden,SWE,1993,0.813
+Switzerland,CHE,1993,0.544
+Turkey,TUR,1993,-0.851
+Ukraine,UKR,1993,-0.741
+United Kingdom,GBR,1993,-0.023
+United States,USA,1993,0.002
+World,WLD,1993,0.352
+Australia,AUS,1994,0.199
+Austria,AUT,1994,1.962
+"Belarus, Rep. of",BLR,1994,1.139
+Belgium,BEL,1994,
+Brazil,BRA,1994,0.616
+Bulgaria,BGR,1994,1.582
+Canada,CAN,1994,0.487
+"China, P.R.: Mainland",CHN,1994,0.719
+"Croatia, Rep. of",HRV,1994,1.715
+Cyprus,CYP,1994,1.015
+Czech Rep.,CZE,1994,1.797
+Denmark,DNK,1994,0.97
+"Estonia, Rep. of",EST,1994,0.348
+Finland,FIN,1994,0.135
+France,FRA,1994,1.526
+Germany,DEU,1994,1.618
+Greece,GRC,1994,1.052
+Hungary,HUN,1994,1.766
+Iceland,ISL,1994,-0.121
+Ireland,IRL,1994,0.265
+Italy,ITA,1994,1.495
+Japan,JPN,1994,0.949
+"Kazakhstan, Rep. of",KAZ,1994,-0.05
+"Korea, Rep. of",KOR,1994,1.276
+Latvia,LVA,1994,0.668
+Liechtenstein,LIE,1994,1.925
+Lithuania,LTU,1994,0.943
+Luxembourg,LUX,1994,
+Malta,MLT,1994,1.397
+"Netherlands, The",NLD,1994,1.361
+New Zealand,NZL,1994,-0.086
+Norway,NOR,1994,0.081
+"Poland, Rep. of",POL,1994,1.368
+Portugal,PRT,1994,0.675
+Romania,ROU,1994,1.724
+Russian Federation,RUS,1994,0.575
+Slovak Rep.,SVK,1994,1.687
+"Slovenia, Rep. of",SVN,1994,1.883
+Spain,ESP,1994,0.997
+Sweden,SWE,1994,0.201
+Switzerland,CHE,1994,1.842
+Turkey,TUR,1994,1.171
+Ukraine,UKR,1994,1.149
+United Kingdom,GBR,1994,0.406
+United States,USA,1994,0.461
+World,WLD,1994,0.51
+Australia,AUS,1995,0.398
+Austria,AUT,1995,0.943
+"Belarus, Rep. of",BLR,1995,1.498
+Belgium,BEL,1995,
+Brazil,BRA,1995,0.799
+Bulgaria,BGR,1995,0.219
+Canada,CAN,1995,0.956
+"China, P.R.: Mainland",CHN,1995,0.562
+"Croatia, Rep. of",HRV,1995,0.431
+Cyprus,CYP,1995,0.026
+Czech Rep.,CZE,1995,1.03
+Denmark,DNK,1995,1.308
+"Estonia, Rep. of",EST,1995,1.731
+Finland,FIN,1995,1.693
+France,FRA,1995,1.296
+Germany,DEU,1995,1.301
+Greece,GRC,1995,-0.045
+Hungary,HUN,1995,0.645
+Iceland,ISL,1995,-0.352
+Ireland,IRL,1995,1.179
+Italy,ITA,1995,0.395
+Japan,JPN,1995,0.33
+"Kazakhstan, Rep. of",KAZ,1995,2.038
+"Korea, Rep. of",KOR,1995,0.449
+Latvia,LVA,1995,1.603
+Liechtenstein,LIE,1995,0.899
+Lithuania,LTU,1995,1.511
+Luxembourg,LUX,1995,
+Malta,MLT,1995,0.43
+"Netherlands, The",NLD,1995,1.537
+New Zealand,NZL,1995,0.09
+Norway,NOR,1995,0.96
+"Poland, Rep. of",POL,1995,1.105
+Portugal,PRT,1995,1.648
+Romania,ROU,1995,0.413
+Russian Federation,RUS,1995,2.105
+Slovak Rep.,SVK,1995,0.682
+"Slovenia, Rep. of",SVN,1995,0.814
+Spain,ESP,1995,1.387
+Sweden,SWE,1995,1.27
+Switzerland,CHE,1995,0.984
+Turkey,TUR,1995,0.116
+Ukraine,UKR,1995,0.949
+United Kingdom,GBR,1995,1.11
+United States,USA,1995,0.626
+World,WLD,1995,0.839
+Australia,AUS,1996,0.582
+Austria,AUT,1996,-0.198
+"Belarus, Rep. of",BLR,1996,-0.276
+Belgium,BEL,1996,
+Brazil,BRA,1996,0.521
+Bulgaria,BGR,1996,-0.358
+Canada,CAN,1996,-0.102
+"China, P.R.: Mainland",CHN,1996,0.196
+"Croatia, Rep. of",HRV,1996,-0.029
+Cyprus,CYP,1996,0.221
+Czech Rep.,CZE,1996,-0.617
+Denmark,DNK,1996,-0.749
+"Estonia, Rep. of",EST,1996,-0.369
+Finland,FIN,1996,0.131
+France,FRA,1996,0.158
+Germany,DEU,1996,-0.706
+Greece,GRC,1996,-0.169
+Hungary,HUN,1996,-0.325
+Iceland,ISL,1996,0.541
+Ireland,IRL,1996,-0.024
+Italy,ITA,1996,0.211
+Japan,JPN,1996,-0.147
+"Kazakhstan, Rep. of",KAZ,1996,-0.408
+"Korea, Rep. of",KOR,1996,0
+Latvia,LVA,1996,-0.434
+Liechtenstein,LIE,1996,-0.034
+Lithuania,LTU,1996,-0.522
+Luxembourg,LUX,1996,
+Malta,MLT,1996,0.607
+"Netherlands, The",NLD,1996,-0.783
+New Zealand,NZL,1996,0.233
+Norway,NOR,1996,-0.043
+"Poland, Rep. of",POL,1996,-0.794
+Portugal,PRT,1996,0.72
+Romania,ROU,1996,-0.415
+Russian Federation,RUS,1996,0.807
+Slovak Rep.,SVK,1996,-0.423
+"Slovenia, Rep. of",SVN,1996,-0.1
+Spain,ESP,1996,0.655
+Sweden,SWE,1996,-0.153
+Switzerland,CHE,1996,0.015
+Turkey,TUR,1996,0.242
+Ukraine,UKR,1996,-0.414
+United Kingdom,GBR,1996,-0.151
+United States,USA,1996,-0.011
+World,WLD,1996,0.367
+Australia,AUS,1997,0.363
+Austria,AUT,1997,0.517
+"Belarus, Rep. of",BLR,1997,0.358
+Belgium,BEL,1997,
+Brazil,BRA,1997,0.714
+Bulgaria,BGR,1997,-0.333
+Canada,CAN,1997,0.45
+"China, P.R.: Mainland",CHN,1997,0.719
+"Croatia, Rep. of",HRV,1997,0.313
+Cyprus,CYP,1997,-0.028
+Czech Rep.,CZE,1997,0.118
+Denmark,DNK,1997,0.654
+"Estonia, Rep. of",EST,1997,0.917
+Finland,FIN,1997,0.777
+France,FRA,1997,1.21
+Germany,DEU,1997,0.551
+Greece,GRC,1997,-0.204
+Hungary,HUN,1997,-0.13
+Iceland,ISL,1997,0.412
+Ireland,IRL,1997,0.96
+Italy,ITA,1997,0.907
+Japan,JPN,1997,0.433
+"Kazakhstan, Rep. of",KAZ,1997,1.886
+"Korea, Rep. of",KOR,1997,0.747
+Latvia,LVA,1997,0.746
+Liechtenstein,LIE,1997,0.94
+Lithuania,LTU,1997,0.519
+Luxembourg,LUX,1997,
+Malta,MLT,1997,1.023
+"Netherlands, The",NLD,1997,0.608
+New Zealand,NZL,1997,-0.127
+Norway,NOR,1997,0.779
+"Poland, Rep. of",POL,1997,0.002
+Portugal,PRT,1997,1.559
+Romania,ROU,1997,-0.413
+Russian Federation,RUS,1997,1.277
+Slovak Rep.,SVK,1997,-0.256
+"Slovenia, Rep. of",SVN,1997,0.484
+Spain,ESP,1997,1.467
+Sweden,SWE,1997,0.99
+Switzerland,CHE,1997,1.05
+Turkey,TUR,1997,-0.031
+Ukraine,UKR,1997,-0.336
+United Kingdom,GBR,1997,0.873
+United States,USA,1997,0.39
+World,WLD,1997,0.66
+Australia,AUS,1998,1.062
+Austria,AUT,1998,1.347
+"Belarus, Rep. of",BLR,1998,0.704
+Belgium,BEL,1998,
+Brazil,BRA,1998,1.272
+Bulgaria,BGR,1998,0.779
+Canada,CAN,1998,2.49
+"China, P.R.: Mainland",CHN,1998,1.246
+"Croatia, Rep. of",HRV,1998,1.157
+Cyprus,CYP,1998,0.921
+Czech Rep.,CZE,1998,1.247
+Denmark,DNK,1998,0.872
+"Estonia, Rep. of",EST,1998,0.521
+Finland,FIN,1998,0.064
+France,FRA,1998,0.915
+Germany,DEU,1998,1.146
+Greece,GRC,1998,0.622
+Hungary,HUN,1998,1.099
+Iceland,ISL,1998,0.217
+Ireland,IRL,1998,0.92
+Italy,ITA,1998,0.939
+Japan,JPN,1998,1.175
+"Kazakhstan, Rep. of",KAZ,1998,0.493
+"Korea, Rep. of",KOR,1998,1.496
+Latvia,LVA,1998,0.637
+Liechtenstein,LIE,1998,1.202
+Lithuania,LTU,1998,0.738
+Luxembourg,LUX,1998,
+Malta,MLT,1998,0.846
+"Netherlands, The",NLD,1998,1.063
+New Zealand,NZL,1998,0.986
+Norway,NOR,1998,0.401
+"Poland, Rep. of",POL,1998,0.942
+Portugal,PRT,1998,1.151
+Romania,ROU,1998,0.794
+Russian Federation,RUS,1998,-0.035
+Slovak Rep.,SVK,1998,1.024
+"Slovenia, Rep. of",SVN,1998,1.379
+Spain,ESP,1998,1.116
+Sweden,SWE,1998,0.569
+Switzerland,CHE,1998,1.097
+Turkey,TUR,1998,0.977
+Ukraine,UKR,1998,0.73
+United Kingdom,GBR,1998,0.853
+United States,USA,1998,1.264
+World,WLD,1998,0.996
+Australia,AUS,1999,0.56
+Austria,AUT,1999,0.985
+"Belarus, Rep. of",BLR,1999,1.504
+Belgium,BEL,1999,
+Brazil,BRA,1999,0.565
+Bulgaria,BGR,1999,0.694
+Canada,CAN,1999,1.711
+"China, P.R.: Mainland",CHN,1999,1.212
+"Croatia, Rep. of",HRV,1999,0.706
+Cyprus,CYP,1999,1.05
+Czech Rep.,CZE,1999,1.1
+Denmark,DNK,1999,1.337
+"Estonia, Rep. of",EST,1999,1.502
+Finland,FIN,1999,1.153
+France,FRA,1999,1.17
+Germany,DEU,1999,1.36
+Greece,GRC,1999,0.788
+Hungary,HUN,1999,0.62
+Iceland,ISL,1999,0.481
+Ireland,IRL,1999,1.054
+Italy,ITA,1999,0.889
+Japan,JPN,1999,0.921
+"Kazakhstan, Rep. of",KAZ,1999,1.37
+"Korea, Rep. of",KOR,1999,1.065
+Latvia,LVA,1999,1.538
+Liechtenstein,LIE,1999,0.966
+Lithuania,LTU,1999,1.484
+Luxembourg,LUX,1999,
+Malta,MLT,1999,1.246
+"Netherlands, The",NLD,1999,1.569
+New Zealand,NZL,1999,1.018
+Norway,NOR,1999,1.277
+"Poland, Rep. of",POL,1999,1.196
+Portugal,PRT,1999,0.561
+Romania,ROU,1999,0.624
+Russian Federation,RUS,1999,0.411
+Slovak Rep.,SVK,1999,0.769
+"Slovenia, Rep. of",SVN,1999,0.885
+Spain,ESP,1999,0.741
+Sweden,SWE,1999,1.369
+Switzerland,CHE,1999,0.969
+Turkey,TUR,1999,1.202
+Ukraine,UKR,1999,1.157
+United Kingdom,GBR,1999,1.125
+United States,USA,1999,0.749
+World,WLD,1999,0.787
+Australia,AUS,2000,0.124
+Austria,AUT,2000,1.768
+"Belarus, Rep. of",BLR,2000,1.94
+Belgium,BEL,2000,1.468
+Brazil,BRA,2000,0.53
+Bulgaria,BGR,2000,1.183
+Canada,CAN,2000,1.309
+"China, P.R.: Mainland",CHN,2000,0.554
+"Croatia, Rep. of",HRV,2000,1.623
+Cyprus,CYP,2000,0.589
+Czech Rep.,CZE,2000,1.902
+Denmark,DNK,2000,1.722
+"Estonia, Rep. of",EST,2000,2.043
+Finland,FIN,2000,2.019
+France,FRA,2000,1.141
+Germany,DEU,2000,1.755
+Greece,GRC,2000,0.667
+Hungary,HUN,2000,1.753
+Iceland,ISL,2000,0.309
+Ireland,IRL,2000,0.548
+Italy,ITA,2000,1.217
+Japan,JPN,2000,0.601
+"Kazakhstan, Rep. of",KAZ,2000,1.494
+"Korea, Rep. of",KOR,2000,0.445
+Latvia,LVA,2000,1.997
+Liechtenstein,LIE,2000,1.449
+Lithuania,LTU,2000,2.019
+Luxembourg,LUX,2000,1.636
+Malta,MLT,2000,1.034
+"Netherlands, The",NLD,2000,1.587
+New Zealand,NZL,2000,0.276
+Norway,NOR,2000,1.447
+"Poland, Rep. of",POL,2000,1.878
+Portugal,PRT,2000,0.613
+Romania,ROU,2000,1.341
+Russian Federation,RUS,2000,1.317
+Slovak Rep.,SVK,2000,1.626
+"Slovenia, Rep. of",SVN,2000,1.8
+Spain,ESP,2000,0.742
+Sweden,SWE,2000,1.729
+Switzerland,CHE,2000,1.409
+Turkey,TUR,2000,0.484
+Ukraine,UKR,2000,1.425
+United Kingdom,GBR,2000,0.713
+United States,USA,2000,0.992
+World,WLD,2000,0.732
+Australia,AUS,2001,0.311
+Austria,AUT,2001,1.504
+"Belarus, Rep. of",BLR,2001,1.977
+Belgium,BEL,2001,1.317
+Brazil,BRA,2001,0.736
+Bulgaria,BGR,2001,1.629
+Canada,CAN,2001,1.438
+"China, P.R.: Mainland",CHN,2001,1.02
+"Croatia, Rep. of",HRV,2001,1.596
+Cyprus,CYP,2001,1.119
+Czech Rep.,CZE,2001,1.219
+Denmark,DNK,2001,1.048
+"Estonia, Rep. of",EST,2001,1.82
+Finland,FIN,2001,1.361
+France,FRA,2001,1.355
+Germany,DEU,2001,1.281
+Greece,GRC,2001,1.298
+Hungary,HUN,2001,1.41
+Iceland,ISL,2001,0.618
+Ireland,IRL,2001,0.529
+Italy,ITA,2001,1.503
+Japan,JPN,2001,0.381
+"Kazakhstan, Rep. of",KAZ,2001,1.645
+"Korea, Rep. of",KOR,2001,0.92
+Latvia,LVA,2001,1.806
+Liechtenstein,LIE,2001,1.43
+Lithuania,LTU,2001,1.798
+Luxembourg,LUX,2001,1.412
+Malta,MLT,2001,1.642
+"Netherlands, The",NLD,2001,1.259
+New Zealand,NZL,2001,0.584
+Norway,NOR,2001,0.633
+"Poland, Rep. of",POL,2001,1.277
+Portugal,PRT,2001,1.12
+Romania,ROU,2001,1.532
+Russian Federation,RUS,2001,0.81
+Slovak Rep.,SVK,2001,1.241
+"Slovenia, Rep. of",SVN,2001,1.724
+Spain,ESP,2001,1.344
+Sweden,SWE,2001,1.078
+Switzerland,CHE,2001,1.437
+Turkey,TUR,2001,1.475
+Ukraine,UKR,2001,1.795
+United Kingdom,GBR,2001,0.622
+United States,USA,2001,0.78
+World,WLD,2001,0.833
+Australia,AUS,2002,0.706
+Austria,AUT,2002,1.539
+"Belarus, Rep. of",BLR,2002,1.891
+Belgium,BEL,2002,1.378
+Brazil,BRA,2002,1.038
+Bulgaria,BGR,2002,0.833
+Canada,CAN,2002,0.559
+"China, P.R.: Mainland",CHN,2002,1.113
+"Croatia, Rep. of",HRV,2002,1.266
+Cyprus,CYP,2002,0.811
+Czech Rep.,CZE,2002,1.523
+Denmark,DNK,2002,1.658
+"Estonia, Rep. of",EST,2002,1.466
+Finland,FIN,2002,1.166
+France,FRA,2002,1.01
+Germany,DEU,2002,1.478
+Greece,GRC,2002,0.415
+Hungary,HUN,2002,1.442
+Iceland,ISL,2002,0.821
+Ireland,IRL,2002,0.809
+Italy,ITA,2002,0.884
+Japan,JPN,2002,0.594
+"Kazakhstan, Rep. of",KAZ,2002,2.252
+"Korea, Rep. of",KOR,2002,0.683
+Latvia,LVA,2002,1.705
+Liechtenstein,LIE,2002,1.381
+Lithuania,LTU,2002,1.908
+Luxembourg,LUX,2002,1.369
+Malta,MLT,2002,0.91
+"Netherlands, The",NLD,2002,1.517
+New Zealand,NZL,2002,0.43
+Norway,NOR,2002,1.403
+"Poland, Rep. of",POL,2002,1.692
+Portugal,PRT,2002,0.622
+Romania,ROU,2002,1.214
+Russian Federation,RUS,2002,1.583
+Slovak Rep.,SVK,2002,1.38
+"Slovenia, Rep. of",SVN,2002,1.525
+Spain,ESP,2002,0.743
+Sweden,SWE,2002,1.571
+Switzerland,CHE,2002,1.247
+Turkey,TUR,2002,0.747
+Ukraine,UKR,2002,1.539
+United Kingdom,GBR,2002,1.002
+United States,USA,2002,0.946
+World,WLD,2002,1.018
+Australia,AUS,2003,0.807
+Austria,AUT,2003,1.473
+"Belarus, Rep. of",BLR,2003,0.08
+Belgium,BEL,2003,1.505
+Brazil,BRA,2003,0.907
+Bulgaria,BGR,2003,0.159
+Canada,CAN,2003,1.258
+"China, P.R.: Mainland",CHN,2003,0.8
+"Croatia, Rep. of",HRV,2003,1.287
+Cyprus,CYP,2003,0.564
+Czech Rep.,CZE,2003,1.074
+Denmark,DNK,2003,0.712
+"Estonia, Rep. of",EST,2003,0.218
+Finland,FIN,2003,0.707
+France,FRA,2003,1.752
+Germany,DEU,2003,1.248
+Greece,GRC,2003,0.377
+Hungary,HUN,2003,0.732
+Iceland,ISL,2003,1.844
+Ireland,IRL,2003,1.006
+Italy,ITA,2003,1.497
+Japan,JPN,2003,0.286
+"Kazakhstan, Rep. of",KAZ,2003,0.132
+"Korea, Rep. of",KOR,2003,0.662
+Latvia,LVA,2003,0.227
+Liechtenstein,LIE,2003,1.672
+Lithuania,LTU,2003,0.173
+Luxembourg,LUX,2003,1.67
+Malta,MLT,2003,1.387
+"Netherlands, The",NLD,2003,1.196
+New Zealand,NZL,2003,0.246
+Norway,NOR,2003,1.117
+"Poland, Rep. of",POL,2003,0.356
+Portugal,PRT,2003,1.405
+Romania,ROU,2003,0.14
+Russian Federation,RUS,2003,0.985
+Slovak Rep.,SVK,2003,0.653
+"Slovenia, Rep. of",SVN,2003,1.46
+Spain,ESP,2003,1.529
+Sweden,SWE,2003,0.92
+Switzerland,CHE,2003,1.837
+Turkey,TUR,2003,0.251
+Ukraine,UKR,2003,-0.268
+United Kingdom,GBR,2003,1.185
+United States,USA,2003,0.987
+World,WLD,2003,0.89
+Australia,AUS,2004,0.698
+Austria,AUT,2004,0.839
+"Belarus, Rep. of",BLR,2004,0.926
+Belgium,BEL,2004,1.07
+Brazil,BRA,2004,0.766
+Bulgaria,BGR,2004,0.496
+Canada,CAN,2004,0.506
+"China, P.R.: Mainland",CHN,2004,1.085
+"Croatia, Rep. of",HRV,2004,0.68
+Cyprus,CYP,2004,0.603
+Czech Rep.,CZE,2004,0.814
+Denmark,DNK,2004,1.036
+"Estonia, Rep. of",EST,2004,1.159
+Finland,FIN,2004,1.225
+France,FRA,2004,0.924
+Germany,DEU,2004,0.988
+Greece,GRC,2004,0.327
+Hungary,HUN,2004,0.572
+Iceland,ISL,2004,1.292
+Ireland,IRL,2004,0.878
+Italy,ITA,2004,0.718
+Japan,JPN,2004,1.077
+"Kazakhstan, Rep. of",KAZ,2004,2.156
+"Korea, Rep. of",KOR,2004,1.235
+Latvia,LVA,2004,0.996
+Liechtenstein,LIE,2004,0.896
+Lithuania,LTU,2004,0.869
+Luxembourg,LUX,2004,0.994
+Malta,MLT,2004,0.691
+"Netherlands, The",NLD,2004,1.15
+New Zealand,NZL,2004,0.043
+Norway,NOR,2004,1.314
+"Poland, Rep. of",POL,2004,0.769
+Portugal,PRT,2004,0.972
+Romania,ROU,2004,0.552
+Russian Federation,RUS,2004,1.394
+Slovak Rep.,SVK,2004,0.549
+"Slovenia, Rep. of",SVN,2004,0.765
+Spain,ESP,2004,0.927
+Sweden,SWE,2004,1.201
+Switzerland,CHE,2004,0.961
+Turkey,TUR,2004,0.548
+Ukraine,UKR,2004,0.918
+United Kingdom,GBR,2004,1.026
+United States,USA,2004,0.86
+World,WLD,2004,0.908
+Australia,AUS,2005,1.181
+Austria,AUT,2005,0.638
+"Belarus, Rep. of",BLR,2005,1.271
+Belgium,BEL,2005,1.178
+Brazil,BRA,2005,1.091
+Bulgaria,BGR,2005,0.18
+Canada,CAN,2005,1.302
+"China, P.R.: Mainland",CHN,2005,1.022
+"Croatia, Rep. of",HRV,2005,0.307
+Cyprus,CYP,2005,0.329
+Czech Rep.,CZE,2005,0.742
+Denmark,DNK,2005,1.284
+"Estonia, Rep. of",EST,2005,1.579
+Finland,FIN,2005,2.195
+France,FRA,2005,0.968
+Germany,DEU,2005,1.015
+Greece,GRC,2005,0.209
+Hungary,HUN,2005,0.258
+Iceland,ISL,2005,0.509
+Ireland,IRL,2005,1.162
+Italy,ITA,2005,0.528
+Japan,JPN,2005,0.698
+"Kazakhstan, Rep. of",KAZ,2005,1.559
+"Korea, Rep. of",KOR,2005,0.969
+Latvia,LVA,2005,1.329
+Liechtenstein,LIE,2005,0.661
+Lithuania,LTU,2005,1.195
+Luxembourg,LUX,2005,1.112
+Malta,MLT,2005,0.706
+"Netherlands, The",NLD,2005,1.241
+New Zealand,NZL,2005,0.449
+Norway,NOR,2005,1.785
+"Poland, Rep. of",POL,2005,0.866
+Portugal,PRT,2005,0.941
+Romania,ROU,2005,0.295
+Russian Federation,RUS,2005,1.699
+Slovak Rep.,SVK,2005,0.397
+"Slovenia, Rep. of",SVN,2005,0.517
+Spain,ESP,2005,0.824
+Sweden,SWE,2005,1.828
+Switzerland,CHE,2005,0.796
+Turkey,TUR,2005,0.385
+Ukraine,UKR,2005,1.01
+United Kingdom,GBR,2005,1.11
+United States,USA,2005,1.149
+World,WLD,2005,1.09
+Australia,AUS,2006,0.683
+Austria,AUT,2006,0.921
+"Belarus, Rep. of",BLR,2006,0.642
+Belgium,BEL,2006,1.379
+Brazil,BRA,2006,0.778
+Bulgaria,BGR,2006,0.538
+Canada,CAN,2006,2.359
+"China, P.R.: Mainland",CHN,2006,1.205
+"Croatia, Rep. of",HRV,2006,0.735
+Cyprus,CYP,2006,0.615
+Czech Rep.,CZE,2006,0.948
+Denmark,DNK,2006,1.352
+"Estonia, Rep. of",EST,2006,1.237
+Finland,FIN,2006,1.2
+France,FRA,2006,1.256
+Germany,DEU,2006,1.248
+Greece,GRC,2006,0.247
+Hungary,HUN,2006,0.722
+Iceland,ISL,2006,1.089
+Ireland,IRL,2006,1.157
+Italy,ITA,2006,0.808
+Japan,JPN,2006,0.346
+"Kazakhstan, Rep. of",KAZ,2006,1.445
+"Korea, Rep. of",KOR,2006,0.538
+Latvia,LVA,2006,1.058
+Liechtenstein,LIE,2006,0.96
+Lithuania,LTU,2006,0.91
+Luxembourg,LUX,2006,1.338
+Malta,MLT,2006,1.033
+"Netherlands, The",NLD,2006,1.494
+New Zealand,NZL,2006,0.395
+Norway,NOR,2006,1.525
+"Poland, Rep. of",POL,2006,0.817
+Portugal,PRT,2006,1.498
+Romania,ROU,2006,0.516
+Russian Federation,RUS,2006,0.546
+Slovak Rep.,SVK,2006,0.627
+"Slovenia, Rep. of",SVN,2006,0.904
+Spain,ESP,2006,1.459
+Sweden,SWE,2006,1.492
+Switzerland,CHE,2006,1.082
+Turkey,TUR,2006,0.833
+Ukraine,UKR,2006,0.26
+United Kingdom,GBR,2006,1.243
+United States,USA,2006,1.023
+World,WLD,2006,0.982
+Australia,AUS,2007,0.887
+Austria,AUT,2007,2.15
+"Belarus, Rep. of",BLR,2007,2.357
+Belgium,BEL,2007,1.864
+Brazil,BRA,2007,0.971
+Bulgaria,BGR,2007,1.858
+Canada,CAN,2007,1.345
+"China, P.R.: Mainland",CHN,2007,1.511
+"Croatia, Rep. of",HRV,2007,1.995
+Cyprus,CYP,2007,0.804
+Czech Rep.,CZE,2007,2.161
+Denmark,DNK,2007,2.136
+"Estonia, Rep. of",EST,2007,2.24
+Finland,FIN,2007,1.94
+France,FRA,2007,1.349
+Germany,DEU,2007,2.08
+Greece,GRC,2007,1.068
+Hungary,HUN,2007,2.165
+Iceland,ISL,2007,1.155
+Ireland,IRL,2007,1.355
+Italy,ITA,2007,1.519
+Japan,JPN,2007,0.961
+"Kazakhstan, Rep. of",KAZ,2007,2.2
+"Korea, Rep. of",KOR,2007,1.304
+Latvia,LVA,2007,2.175
+Liechtenstein,LIE,2007,1.935
+Lithuania,LTU,2007,2.182
+Luxembourg,LUX,2007,1.923
+Malta,MLT,2007,1.425
+"Netherlands, The",NLD,2007,2.061
+New Zealand,NZL,2007,0.258
+Norway,NOR,2007,1.713
+"Poland, Rep. of",POL,2007,2.127
+Portugal,PRT,2007,0.717
+Romania,ROU,2007,2.116
+Russian Federation,RUS,2007,2.483
+Slovak Rep.,SVK,2007,2.147
+"Slovenia, Rep. of",SVN,2007,2.205
+Spain,ESP,2007,0.767
+Sweden,SWE,2007,1.94
+Switzerland,CHE,2007,1.798
+Turkey,TUR,2007,0.93
+Ukraine,UKR,2007,2.365
+United Kingdom,GBR,2007,1.327
+United States,USA,2007,1.141
+World,WLD,2007,1.181
+Australia,AUS,2008,0.582
+Austria,AUT,2008,1.593
+"Belarus, Rep. of",BLR,2008,2.247
+Belgium,BEL,2008,1.238
+Brazil,BRA,2008,0.72
+Bulgaria,BGR,2008,1.165
+Canada,CAN,2008,0.868
+"China, P.R.: Mainland",CHN,2008,1.063
+"Croatia, Rep. of",HRV,2008,1.468
+Cyprus,CYP,2008,1.021
+Czech Rep.,CZE,2008,1.635
+Denmark,DNK,2008,1.858
+"Estonia, Rep. of",EST,2008,2.582
+Finland,FIN,2008,2.125
+France,FRA,2008,0.933
+Germany,DEU,2008,1.532
+Greece,GRC,2008,0.872
+Hungary,HUN,2008,1.52
+Iceland,ISL,2008,0.806
+Ireland,IRL,2008,0.858
+Italy,ITA,2008,1.089
+Japan,JPN,2008,0.631
+"Kazakhstan, Rep. of",KAZ,2008,1.556
+"Korea, Rep. of",KOR,2008,0.993
+Latvia,LVA,2008,2.375
+Liechtenstein,LIE,2008,1.39
+Lithuania,LTU,2008,2.21
+Luxembourg,LUX,2008,1.262
+Malta,MLT,2008,1.299
+"Netherlands, The",NLD,2008,1.42
+New Zealand,NZL,2008,0.553
+Norway,NOR,2008,1.641
+"Poland, Rep. of",POL,2008,1.73
+Portugal,PRT,2008,0.602
+Romania,ROU,2008,1.331
+Russian Federation,RUS,2008,2.213
+Slovak Rep.,SVK,2008,1.53
+"Slovenia, Rep. of",SVN,2008,1.612
+Spain,ESP,2008,0.8
+Sweden,SWE,2008,1.965
+Switzerland,CHE,2008,1.19
+Turkey,TUR,2008,0.808
+Ukraine,UKR,2008,1.608
+United Kingdom,GBR,2008,0.835
+United States,USA,2008,0.21
+World,WLD,2008,0.92
+Australia,AUS,2009,0.986
+Austria,AUT,2009,1.552
+"Belarus, Rep. of",BLR,2009,1.593
+Belgium,BEL,2009,1.142
+Brazil,BRA,2009,0.942
+Bulgaria,BGR,2009,1.273
+Canada,CAN,2009,0.551
+"China, P.R.: Mainland",CHN,2009,1.311
+"Croatia, Rep. of",HRV,2009,1.51
+Cyprus,CYP,2009,0.973
+Czech Rep.,CZE,2009,1.413
+Denmark,DNK,2009,1.324
+"Estonia, Rep. of",EST,2009,1.597
+Finland,FIN,2009,1.685
+France,FRA,2009,1.148
+Germany,DEU,2009,1.27
+Greece,GRC,2009,0.758
+Hungary,HUN,2009,1.637
+Iceland,ISL,2009,0.965
+Ireland,IRL,2009,0.824
+Italy,ITA,2009,1.182
+Japan,JPN,2009,0.764
+"Kazakhstan, Rep. of",KAZ,2009,1.187
+"Korea, Rep. of",KOR,2009,0.989
+Latvia,LVA,2009,1.499
+Liechtenstein,LIE,2009,1.404
+Lithuania,LTU,2009,1.385
+Luxembourg,LUX,2009,1.168
+Malta,MLT,2009,1.112
+"Netherlands, The",NLD,2009,1.213
+New Zealand,NZL,2009,0.054
+Norway,NOR,2009,1.409
+"Poland, Rep. of",POL,2009,1.248
+Portugal,PRT,2009,1.381
+Romania,ROU,2009,1.609
+Russian Federation,RUS,2009,1.182
+Slovak Rep.,SVK,2009,1.496
+"Slovenia, Rep. of",SVN,2009,1.667
+Spain,ESP,2009,1.286
+Sweden,SWE,2009,1.438
+Switzerland,CHE,2009,1.359
+Turkey,TUR,2009,0.643
+Ukraine,UKR,2009,1.594
+United Kingdom,GBR,2009,0.947
+United States,USA,2009,0.396
+World,WLD,2009,0.944
+Australia,AUS,2010,0.624
+Austria,AUT,2010,0.662
+"Belarus, Rep. of",BLR,2010,1.434
+Belgium,BEL,2010,0.215
+Brazil,BRA,2010,1.099
+Bulgaria,BGR,2010,1.335
+Canada,CAN,2010,2.928
+"China, P.R.: Mainland",CHN,2010,0.942
+"Croatia, Rep. of",HRV,2010,0.878
+Cyprus,CYP,2010,1.981
+Czech Rep.,CZE,2010,0.396
+Denmark,DNK,2010,-0.195
+"Estonia, Rep. of",EST,2010,0.52
+Finland,FIN,2010,0.232
+France,FRA,2010,0.326
+Germany,DEU,2010,0.182
+Greece,GRC,2010,1.551
+Hungary,HUN,2010,0.83
+Iceland,ISL,2010,1.218
+Ireland,IRL,2010,-0.086
+Italy,ITA,2010,0.696
+Japan,JPN,2010,0.884
+"Kazakhstan, Rep. of",KAZ,2010,1.299
+"Korea, Rep. of",KOR,2010,0.542
+Latvia,LVA,2010,0.665
+Liechtenstein,LIE,2010,0.475
+Lithuania,LTU,2010,0.723
+Luxembourg,LUX,2010,0.303
+Malta,MLT,2010,1.287
+"Netherlands, The",NLD,2010,0.088
+New Zealand,NZL,2010,0.59
+Norway,NOR,2010,-0.32
+"Poland, Rep. of",POL,2010,0.372
+Portugal,PRT,2010,1.094
+Romania,ROU,2010,1.154
+Russian Federation,RUS,2010,0.871
+Slovak Rep.,SVK,2010,0.68
+"Slovenia, Rep. of",SVN,2010,0.808
+Spain,ESP,2010,0.835
+Sweden,SWE,2010,-0.274
+Switzerland,CHE,2010,0.433
+Turkey,TUR,2010,2.348
+Ukraine,UKR,2010,1.635
+United Kingdom,GBR,2010,-0.054
+United States,USA,2010,0.69
+World,WLD,2010,1.205
+Australia,AUS,2011,0.156
+Austria,AUT,2011,1.381
+"Belarus, Rep. of",BLR,2011,0.989
+Belgium,BEL,2011,1.268
+Brazil,BRA,2011,0.782
+Bulgaria,BGR,2011,0.399
+Canada,CAN,2011,1.457
+"China, P.R.: Mainland",CHN,2011,0.764
+"Croatia, Rep. of",HRV,2011,1.269
+Cyprus,CYP,2011,0.692
+Czech Rep.,CZE,2011,1.029
+Denmark,DNK,2011,0.684
+"Estonia, Rep. of",EST,2011,1.276
+Finland,FIN,2011,1.345
+France,FRA,2011,1.462
+Germany,DEU,2011,1.108
+Greece,GRC,2011,0.365
+Hungary,HUN,2011,0.915
+Iceland,ISL,2011,1.026
+Ireland,IRL,2011,0.576
+Italy,ITA,2011,1.2
+Japan,JPN,2011,0.556
+"Kazakhstan, Rep. of",KAZ,2011,0.738
+"Korea, Rep. of",KOR,2011,0.347
+Latvia,LVA,2011,1.118
+Liechtenstein,LIE,2011,1.653
+Lithuania,LTU,2011,0.914
+Luxembourg,LUX,2011,1.321
+Malta,MLT,2011,1.067
+"Netherlands, The",NLD,2011,1.056
+New Zealand,NZL,2011,0.658
+Norway,NOR,2011,1.428
+"Poland, Rep. of",POL,2011,0.736
+Portugal,PRT,2011,1.577
+Romania,ROU,2011,0.482
+Russian Federation,RUS,2011,1.695
+Slovak Rep.,SVK,2011,0.84
+"Slovenia, Rep. of",SVN,2011,1.391
+Spain,ESP,2011,1.539
+Sweden,SWE,2011,1.278
+Switzerland,CHE,2011,1.649
+Turkey,TUR,2011,0.354
+Ukraine,UKR,2011,0.564
+United Kingdom,GBR,2011,0.847
+United States,USA,2011,0.534
+World,WLD,2011,0.907
+Australia,AUS,2012,0.258
+Austria,AUT,2012,1.791
+"Belarus, Rep. of",BLR,2012,1.526
+Belgium,BEL,2012,1.113
+Brazil,BRA,2012,1.006
+Bulgaria,BGR,2012,1.659
+Canada,CAN,2012,2.165
+"China, P.R.: Mainland",CHN,2012,0.596
+"Croatia, Rep. of",HRV,2012,1.857
+Cyprus,CYP,2012,0.949
+Czech Rep.,CZE,2012,1.57
+Denmark,DNK,2012,1.145
+"Estonia, Rep. of",EST,2012,1.442
+Finland,FIN,2012,1.533
+France,FRA,2012,1.146
+Germany,DEU,2012,1.338
+Greece,GRC,2012,1.21
+Hungary,HUN,2012,1.751
+Iceland,ISL,2012,0.748
+Ireland,IRL,2012,0.715
+Italy,ITA,2012,1.486
+Japan,JPN,2012,0.353
+"Kazakhstan, Rep. of",KAZ,2012,1.143
+"Korea, Rep. of",KOR,2012,0.419
+Latvia,LVA,2012,1.369
+Liechtenstein,LIE,2012,1.607
+Lithuania,LTU,2012,1.323
+Luxembourg,LUX,2012,1.244
+Malta,MLT,2012,1.417
+"Netherlands, The",NLD,2012,1.135
+New Zealand,NZL,2012,0.093
+Norway,NOR,2012,1.084
+"Poland, Rep. of",POL,2012,1.355
+Portugal,PRT,2012,0.767
+Romania,ROU,2012,1.815
+Russian Federation,RUS,2012,1.926
+Slovak Rep.,SVK,2012,1.57
+"Slovenia, Rep. of",SVN,2012,1.967
+Spain,ESP,2012,0.958
+Sweden,SWE,2012,1.322
+Switzerland,CHE,2012,1.486
+Turkey,TUR,2012,0.93
+Ukraine,UKR,2012,1.938
+United Kingdom,GBR,2012,0.574
+United States,USA,2012,1.445
+World,WLD,2012,1.058
+Australia,AUS,2013,1.459
+Austria,AUT,2013,1.103
+"Belarus, Rep. of",BLR,2013,1.169
+Belgium,BEL,2013,0.449
+Brazil,BRA,2013,0.921
+Bulgaria,BGR,2013,1.462
+Canada,CAN,2013,1.203
+"China, P.R.: Mainland",CHN,2013,1.05
+"Croatia, Rep. of",HRV,2013,1.282
+Cyprus,CYP,2013,1.221
+Czech Rep.,CZE,2013,0.77
+Denmark,DNK,2013,0.401
+"Estonia, Rep. of",EST,2013,1.157
+Finland,FIN,2013,1.414
+France,FRA,2013,0.638
+Germany,DEU,2013,0.571
+Greece,GRC,2013,1.3
+Hungary,HUN,2013,1.18
+Iceland,ISL,2013,0.776
+Ireland,IRL,2013,0.584
+Italy,ITA,2013,0.946
+Japan,JPN,2013,0.583
+"Kazakhstan, Rep. of",KAZ,2013,1.614
+"Korea, Rep. of",KOR,2013,0.522
+Latvia,LVA,2013,1.046
+Liechtenstein,LIE,2013,0.92
+Lithuania,LTU,2013,0.926
+Luxembourg,LUX,2013,0.553
+Malta,MLT,2013,1.328
+"Netherlands, The",NLD,2013,0.414
+New Zealand,NZL,2013,0.932
+Norway,NOR,2013,0.815
+"Poland, Rep. of",POL,2013,0.622
+Portugal,PRT,2013,0.905
+Romania,ROU,2013,1.366
+Russian Federation,RUS,2013,1.16
+Slovak Rep.,SVK,2013,0.948
+"Slovenia, Rep. of",SVN,2013,1.27
+Spain,ESP,2013,0.818
+Sweden,SWE,2013,0.863
+Switzerland,CHE,2013,0.753
+Turkey,TUR,2013,1.317
+Ukraine,UKR,2013,1.501
+United Kingdom,GBR,2013,0.373
+United States,USA,2013,0.613
+World,WLD,2013,1.007
+Australia,AUS,2014,1.166
+Austria,AUT,2014,2.427
+"Belarus, Rep. of",BLR,2014,2.137
+Belgium,BEL,2014,2.399
+Brazil,BRA,2014,1.157
+Bulgaria,BGR,2014,1.207
+Canada,CAN,2014,0.298
+"China, P.R.: Mainland",CHN,2014,1.044
+"Croatia, Rep. of",HRV,2014,2.044
+Cyprus,CYP,2014,1.066
+Czech Rep.,CZE,2014,2.494
+Denmark,DNK,2014,2.681
+"Estonia, Rep. of",EST,2014,2.403
+Finland,FIN,2014,2.584
+France,FRA,2014,1.965
+Germany,DEU,2014,2.506
+Greece,GRC,2014,1.028
+Hungary,HUN,2014,2.232
+Iceland,ISL,2014,1.737
+Ireland,IRL,2014,1.424
+Italy,ITA,2014,1.573
+Japan,JPN,2014,0.516
+"Kazakhstan, Rep. of",KAZ,2014,0.669
+"Korea, Rep. of",KOR,2014,1.027
+Latvia,LVA,2014,2.284
+Liechtenstein,LIE,2014,2.239
+Lithuania,LTU,2014,2.196
+Luxembourg,LUX,2014,2.452
+Malta,MLT,2014,1.472
+"Netherlands, The",NLD,2014,2.548
+New Zealand,NZL,2014,0.475
+Norway,NOR,2014,2.441
+"Poland, Rep. of",POL,2014,2.32
+Portugal,PRT,2014,1.308
+Romania,ROU,2014,1.548
+Russian Federation,RUS,2014,1.749
+Slovak Rep.,SVK,2014,2.315
+"Slovenia, Rep. of",SVN,2014,2.474
+Spain,ESP,2014,1.517
+Sweden,SWE,2014,2.711
+Switzerland,CHE,2014,2.128
+Turkey,TUR,2014,1.29
+Ukraine,UKR,2014,1.691
+United Kingdom,GBR,2014,1.739
+United States,USA,2014,0.5
+World,WLD,2014,1.042
+Australia,AUS,2015,1.062
+Austria,AUT,2015,2.183
+"Belarus, Rep. of",BLR,2015,2.211
+Belgium,BEL,2015,1.35
+Brazil,BRA,2015,1.587
+Bulgaria,BGR,2015,1.458
+Canada,CAN,2015,1.222
+"China, P.R.: Mainland",CHN,2015,1.279
+"Croatia, Rep. of",HRV,2015,1.933
+Cyprus,CYP,2015,1.184
+Czech Rep.,CZE,2015,2.112
+Denmark,DNK,2015,1.523
+"Estonia, Rep. of",EST,2015,2.344
+Finland,FIN,2015,2.605
+France,FRA,2015,1.513
+Germany,DEU,2015,1.658
+Greece,GRC,2015,0.889
+Hungary,HUN,2015,2.092
+Iceland,ISL,2015,0.494
+Ireland,IRL,2015,0.51
+Italy,ITA,2015,1.647
+Japan,JPN,2015,0.789
+"Kazakhstan, Rep. of",KAZ,2015,1.605
+"Korea, Rep. of",KOR,2015,0.953
+Latvia,LVA,2015,2.126
+Liechtenstein,LIE,2015,2.043
+Lithuania,LTU,2015,2.063
+Luxembourg,LUX,2015,1.498
+Malta,MLT,2015,1.455
+"Netherlands, The",NLD,2015,1.269
+New Zealand,NZL,2015,0.497
+Norway,NOR,2015,1.818
+"Poland, Rep. of",POL,2015,1.97
+Portugal,PRT,2015,1.362
+Romania,ROU,2015,1.798
+Russian Federation,RUS,2015,2.241
+Slovak Rep.,SVK,2015,2.099
+"Slovenia, Rep. of",SVN,2015,2.171
+Spain,ESP,2015,1.432
+Sweden,SWE,2015,2.081
+Switzerland,CHE,2015,1.925
+Turkey,TUR,2015,0.777
+Ukraine,UKR,2015,2.047
+United Kingdom,GBR,2015,0.629
+United States,USA,2015,1.525
+World,WLD,2015,1.406
+Australia,AUS,2016,1.145
+Austria,AUT,2016,2.111
+"Belarus, Rep. of",BLR,2016,2.168
+Belgium,BEL,2016,1.861
+Brazil,BRA,2016,1.477
+Bulgaria,BGR,2016,1.932
+Canada,CAN,2016,2.376
+"China, P.R.: Mainland",CHN,2016,1.305
+"Croatia, Rep. of",HRV,2016,1.843
+Cyprus,CYP,2016,1.561
+Czech Rep.,CZE,2016,2.067
+Denmark,DNK,2016,1.856
+"Estonia, Rep. of",EST,2016,1.895
+Finland,FIN,2016,2.142
+France,FRA,2016,1.689
+Germany,DEU,2016,1.971
+Greece,GRC,2016,1.584
+Hungary,HUN,2016,1.923
+Iceland,ISL,2016,1.485
+Ireland,IRL,2016,1.098
+Italy,ITA,2016,1.649
+Japan,JPN,2016,1.274
+"Kazakhstan, Rep. of",KAZ,2016,2.24
+"Korea, Rep. of",KOR,2016,1.609
+Latvia,LVA,2016,1.905
+Liechtenstein,LIE,2016,2.022
+Lithuania,LTU,2016,1.913
+Luxembourg,LUX,2016,1.849
+Malta,MLT,2016,1.721
+"Netherlands, The",NLD,2016,1.914
+New Zealand,NZL,2016,1.13
+Norway,NOR,2016,1.745
+"Poland, Rep. of",POL,2016,2.01
+Portugal,PRT,2016,1.677
+Romania,ROU,2016,1.883
+Russian Federation,RUS,2016,2.454
+Slovak Rep.,SVK,2016,1.925
+"Slovenia, Rep. of",SVN,2016,2.091
+Spain,ESP,2016,1.642
+Sweden,SWE,2016,1.85
+Switzerland,CHE,2016,1.806
+Turkey,TUR,2016,1.547
+Ukraine,UKR,2016,2.09
+United Kingdom,GBR,2016,1.175
+United States,USA,2016,2.219
+World,WLD,2016,1.658
+Australia,AUS,2017,1.122
+Austria,AUT,2017,1.753
+"Belarus, Rep. of",BLR,2017,1.562
+Belgium,BEL,2017,1.695
+Brazil,BRA,2017,1.375
+Bulgaria,BGR,2017,0.987
+Canada,CAN,2017,1.481
+"China, P.R.: Mainland",CHN,2017,1.566
+"Croatia, Rep. of",HRV,2017,1.562
+Cyprus,CYP,2017,0.844
+Czech Rep.,CZE,2017,1.585
+Denmark,DNK,2017,1.624
+"Estonia, Rep. of",EST,2017,1.474
+Finland,FIN,2017,1.477
+France,FRA,2017,1.682
+Germany,DEU,2017,1.636
+Greece,GRC,2017,0.65
+Hungary,HUN,2017,1.373
+Iceland,ISL,2017,1.77
+Ireland,IRL,2017,1.318
+Italy,ITA,2017,1.559
+Japan,JPN,2017,0.746
+"Kazakhstan, Rep. of",KAZ,2017,1.752
+"Korea, Rep. of",KOR,2017,1.404
+Latvia,LVA,2017,1.469
+Liechtenstein,LIE,2017,1.782
+Lithuania,LTU,2017,1.511
+Luxembourg,LUX,2017,1.622
+Malta,MLT,2017,1.22
+"Netherlands, The",NLD,2017,1.704
+New Zealand,NZL,2017,0.549
+Norway,NOR,2017,1.578
+"Poland, Rep. of",POL,2017,1.433
+Portugal,PRT,2017,2.115
+Romania,ROU,2017,1.165
+Russian Federation,RUS,2017,2.125
+Slovak Rep.,SVK,2017,1.253
+"Slovenia, Rep. of",SVN,2017,1.765
+Spain,ESP,2017,1.973
+Sweden,SWE,2017,1.593
+Switzerland,CHE,2017,1.781
+Turkey,TUR,2017,0.73
+Ukraine,UKR,2017,1.401
+United Kingdom,GBR,2017,1.437
+United States,USA,2017,1.43
+World,WLD,2017,1.424
+Australia,AUS,2018,1.112
+Austria,AUT,2018,2.535
+"Belarus, Rep. of",BLR,2018,2.31
+Belgium,BEL,2018,2.151
+Brazil,BRA,2018,1.168
+Bulgaria,BGR,2018,2.228
+Canada,CAN,2018,0.491
+"China, P.R.: Mainland",CHN,2018,1.35
+"Croatia, Rep. of",HRV,2018,2.321
+Cyprus,CYP,2018,2.183
+Czech Rep.,CZE,2018,2.641
+Denmark,DNK,2018,2.115
+"Estonia, Rep. of",EST,2018,2.381
+Finland,FIN,2018,2.144
+France,FRA,2018,1.925
+Germany,DEU,2018,2.377
+Greece,GRC,2018,1.903
+Hungary,HUN,2018,2.565
+Iceland,ISL,2018,0.892
+Ireland,IRL,2018,0.834
+Italy,ITA,2018,1.792
+Japan,JPN,2018,0.872
+"Kazakhstan, Rep. of",KAZ,2018,0.629
+"Korea, Rep. of",KOR,2018,0.887
+Latvia,LVA,2018,2.324
+Liechtenstein,LIE,2018,2.252
+Lithuania,LTU,2018,2.395
+Luxembourg,LUX,2018,2.447
+Malta,MLT,2018,1.417
+"Netherlands, The",NLD,2018,2.11
+New Zealand,NZL,2018,1.095
+Norway,NOR,2018,1.51
+"Poland, Rep. of",POL,2018,2.392
+Portugal,PRT,2018,0.863
+Romania,ROU,2018,2.278
+Russian Federation,RUS,2018,2.04
+Slovak Rep.,SVK,2018,2.54
+"Slovenia, Rep. of",SVN,2018,2.452
+Spain,ESP,2018,1.069
+Sweden,SWE,2018,1.849
+Switzerland,CHE,2018,2.285
+Turkey,TUR,2018,2.584
+Ukraine,UKR,2018,2.222
+United Kingdom,GBR,2018,1.012
+United States,USA,2018,1.273
+World,WLD,2018,1.284
+Australia,AUS,2019,1.411
+Austria,AUT,2019,2.369
+"Belarus, Rep. of",BLR,2019,2.65
+Belgium,BEL,2019,2.038
+Brazil,BRA,2019,1.547
+Bulgaria,BGR,2019,2.19
+Canada,CAN,2019,1.32
+"China, P.R.: Mainland",CHN,2019,1.413
+"Croatia, Rep. of",HRV,2019,2.117
+Cyprus,CYP,2019,1.589
+Czech Rep.,CZE,2019,2.533
+Denmark,DNK,2019,2.185
+"Estonia, Rep. of",EST,2019,2.183
+Finland,FIN,2019,1.436
+France,FRA,2019,1.888
+Germany,DEU,2019,2.314
+Greece,GRC,2019,1.406
+Hungary,HUN,2019,2.393
+Iceland,ISL,2019,1.396
+Ireland,IRL,2019,1.248
+Italy,ITA,2019,1.639
+Japan,JPN,2019,1.215
+"Kazakhstan, Rep. of",KAZ,2019,1.47
+"Korea, Rep. of",KOR,2019,1.407
+Latvia,LVA,2019,2.428
+Liechtenstein,LIE,2019,2.054
+Lithuania,LTU,2019,2.601
+Luxembourg,LUX,2019,2.143
+Malta,MLT,2019,1.243
+"Netherlands, The",NLD,2019,2.116
+New Zealand,NZL,2019,1.041
+Norway,NOR,2019,1.231
+"Poland, Rep. of",POL,2019,2.615
+Portugal,PRT,2019,1.25
+Romania,ROU,2019,2.266
+Russian Federation,RUS,2019,2.181
+Slovak Rep.,SVK,2019,2.423
+"Slovenia, Rep. of",SVN,2019,2.367
+Spain,ESP,2019,1.446
+Sweden,SWE,2019,1.572
+Switzerland,CHE,2019,2.042
+Turkey,TUR,2019,1.639
+Ukraine,UKR,2019,2.355
+United Kingdom,GBR,2019,1.247
+United States,USA,2019,1.032
+World,WLD,2019,1.449
+Australia,AUS,2020,1.404
+Austria,AUT,2020,2.32
+"Belarus, Rep. of",BLR,2020,3.476
+Belgium,BEL,2020,2.528
+Brazil,BRA,2020,1.483
+Bulgaria,BGR,2020,2.182
+Canada,CAN,2020,1.139
+"China, P.R.: Mainland",CHN,2020,1.636
+"Croatia, Rep. of",HRV,2020,2.024
+Cyprus,CYP,2020,1.746
+Czech Rep.,CZE,2020,2.331
+Denmark,DNK,2020,2.642
+"Estonia, Rep. of",EST,2020,3.595
+Finland,FIN,2020,3.305
+France,FRA,2020,2.411
+Germany,DEU,2020,2.499
+Greece,GRC,2020,1.366
+Hungary,HUN,2020,2.034
+Iceland,ISL,2020,0.851
+Ireland,IRL,2020,1.117
+Italy,ITA,2020,1.825
+Japan,JPN,2020,1.382
+"Kazakhstan, Rep. of",KAZ,2020,2.832
+"Korea, Rep. of",KOR,2020,1.377
+Latvia,LVA,2020,3.513
+Liechtenstein,LIE,2020,2.352
+Lithuania,LTU,2020,3.394
+Luxembourg,LUX,2020,2.62
+Malta,MLT,2020,1.574
+"Netherlands, The",NLD,2020,2.458
+New Zealand,NZL,2020,0.833
+Norway,NOR,2020,2.421
+"Poland, Rep. of",POL,2020,2.631
+Portugal,PRT,2020,1.95
+Romania,ROU,2020,2.283
+Russian Federation,RUS,2020,3.693
+Slovak Rep.,SVK,2020,2.03
+"Slovenia, Rep. of",SVN,2020,2.26
+Spain,ESP,2020,1.972
+Sweden,SWE,2020,2.953
+Switzerland,CHE,2020,2.448
+Turkey,TUR,2020,1.852
+Ukraine,UKR,2020,3.014
+United Kingdom,GBR,2020,1.383
+United States,USA,2020,1.325
+World,WLD,2020,1.713
+Australia,AUS,2021,0.589
+Austria,AUT,2021,1.397
+"Belarus, Rep. of",BLR,2021,1.683
+Belgium,BEL,2021,1.15
+Brazil,BRA,2021,1.167
+Bulgaria,BGR,2021,1.795
+Canada,CAN,2021,2.536
+"China, P.R.: Mainland",CHN,2021,1.714
+"Croatia, Rep. of",HRV,2021,1.622
+Cyprus,CYP,2021,2.082
+Czech Rep.,CZE,2021,1.29
+Denmark,DNK,2021,1.691
+"Estonia, Rep. of",EST,2021,2.133
+Finland,FIN,2021,1.923
+France,FRA,2021,1.193
+Germany,DEU,2021,1.304
+Greece,GRC,2021,1.722
+Hungary,HUN,2021,1.482
+Iceland,ISL,2021,0.993
+Ireland,IRL,2021,1.057
+Italy,ITA,2021,1.478
+Japan,JPN,2021,1.215
+"Kazakhstan, Rep. of",KAZ,2021,1.432
+"Korea, Rep. of",KOR,2021,1.56
+Latvia,LVA,2021,1.938
+Liechtenstein,LIE,2021,1.202
+Lithuania,LTU,2021,1.737
+Luxembourg,LUX,2021,1.137
+Malta,MLT,2021,2.035
+"Netherlands, The",NLD,2021,1.285
+New Zealand,NZL,2021,0.901
+Norway,NOR,2021,1.525
+"Poland, Rep. of",POL,2021,1.417
+Portugal,PRT,2021,1.213
+Romania,ROU,2021,1.497
+Russian Federation,RUS,2021,1.64
+Slovak Rep.,SVK,2021,1.29
+"Slovenia, Rep. of",SVN,2021,1.565
+Spain,ESP,2021,1.312
+Sweden,SWE,2021,1.85
+Switzerland,CHE,2021,1.103
+Turkey,TUR,2021,1.93
+Ukraine,UKR,2021,1.43
+United Kingdom,GBR,2021,0.951
+United States,USA,2021,1.166
+World,WLD,2021,1.442
