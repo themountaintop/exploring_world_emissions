@@ -28,8 +28,11 @@ Our team has decided to take a deeper look into the correlation found between gl
 #### Who worked on what?
 
 Andrew: Cleaning data, SQL, Database, Merge reviews
+
 Kevin: Cleaning data, Python, Merge reviews
+
 Kimber: Readme, VS code, Merge reviews
+
 Ryan: Repository creation, GitHub, Merge reviews
 
 #### Segment 1 Challenges:
