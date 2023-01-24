@@ -25,6 +25,16 @@ Our team has decided to take a deeper look into the correlation found between gl
   
   We plan to use this data to show trends over the last 20-60 years whether it be an increase or decrease of emissions, and we want to use machine learning to predict future temperatures.
 
+#### Who worked on what?
+
+Andrew: Cleaning data, SQL, Database, Merge reviews
+
+Kevin: Cleaning data, Python, Merge reviews
+
+Kimber: Readme, VS code, Merge reviews
+
+Ryan: Repository creation, GitHub, Merge reviews
+
 #### Segment 1 Challenges:
 
 The data we selected seems to have come from different sources that had different objectives, so we had some trouble cleaning the data in a way that allowed us to join the tables on the country and year of collection. 
