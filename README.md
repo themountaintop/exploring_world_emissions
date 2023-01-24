@@ -1,4 +1,4 @@
-# exploring_world_emissions
+# exploring world emissions
 
 ## Table of Contents
 - [Overview of Project](#overview-of-project)
