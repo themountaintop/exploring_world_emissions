@@ -21,7 +21,9 @@ Our team has decided to take a deeper look into the correlation found between gl
  
   For this segment we have cleaned the data, created tables for our database which we have saved as CSV files (listed below), and individually commited to our branches of the repo before merging.
 
-  The team selected datasets concerning emissions by country, global temperature trends, and world population. We all agreed that we would like something measureable and scientific to work on for our project. We wanted a subject we all cared about that would also be an interesting subject to present. (Also, the Star Wars data we found didn't have any data to show off our machine learning skills!) We plan to use this data to show trends over the last 20-60 years whether it be an increase or decrease of emissions, and we waant to use machine learning to predict future temperatures.
+  The team selected datasets concerning emissions by country, global temperature trends, and world population. We all agreed that we would like something measurable and scientific to work on for our project. We wanted a subject we all cared about that would also be an interesting subject to present. (Also, the Star Wars data we found didn't have any data to show off our machine learning skills!) 
+  
+  We plan to use this data to show trends over the last 20-60 years whether it be an increase or decrease of emissions, and we want to use machine learning to predict future temperatures.
 
 #### Segment 1 Challenges:
 
@@ -55,7 +57,7 @@ Source Data:
   - cleaned data was saved into a new table
   
 - [Emissions by Country](https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022)
-  - this data set has our emissions measrements by country
+  - this data set has our emissions measurements by country
   - cleaned data was saved into a new table
 
 
