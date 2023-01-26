@@ -51,6 +51,20 @@ The data set we selected went back to the 18th century, and as a group we had to
 
 #### Segment 2
 
+#### Who worked on what?
+
+Andrew: Presentation, Tableau, Merge reviews
+
+Kevin: Machine Learning Model, Python, Merge reviews
+
+Kimber: Presentation, Tableau, Merge reviews
+
+Ryan: Machine Learning Model, Merge reviews
+
+#### Segment 2 Challenges:
+
+[enter here]
+
 #### Segment 3
 
 #### Segment 4
