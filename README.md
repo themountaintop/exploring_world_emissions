@@ -33,7 +33,7 @@ Kevin: Cleaning data, Python, Merge reviews
 
 Kimber: Readme, VS code, Merge reviews
 
-Ryan: Repository creation, GitHub, Merge reviews
+Ryan: Cleaning Data, Repository creation, GitHub, Merge reviews
 
 #### Segment 1 Challenges:
 
