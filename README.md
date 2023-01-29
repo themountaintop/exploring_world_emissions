@@ -19,21 +19,18 @@ Our team has decided to take a deeper look into the correlation found between gl
 
 #### Segment 1
  
-  For this segment we have cleaned the data, created tables for our database which we have saved as CSV files (listed below), and individually commited to our branches of the repo before merging.
+  For this segment we have cleaned the data, created tables for our database which we have saved as CSV files (listed below), and individually committed to our branches of the repo before merging.
 
-  The team selected datasets concerning emissions by country, global temperature trends, and world population. We all agreed that we would like something measurable and scientific to work on for our project. We wanted a subject we all cared about that would also be an interesting subject to present. (Also, the Star Wars data we found didn't have any data to show off our machine learning skills!) 
+  The team selected datasets concerning emissions by country, global temperature trends, and world population. We all agreed that we would like something measurable and scientific to work on for our project. We wanted a subject we all cared about that would also be an interesting subject to present. 
   
   We plan to use this data to show trends over the last 20-60 years whether it be an increase or decrease of emissions, and we want to use machine learning to predict future temperatures.
 
 #### Who worked on what?
 
-Andrew: Cleaning data, SQL, Database, Merge reviews
-
-Kevin: Cleaning data, Python, Merge reviews
-
-Kimber: Readme, VS code, Merge reviews
-
-Ryan: Cleaning Data, Repository creation, GitHub, Merge reviews
+- Andrew: Cleaning data, SQL, Database, Merge reviews
+- Kevin: Cleaning data, Python, Merge reviews
+- Kimber: Readme, VS code, Merge reviews
+- Ryan: Cleaning Data, Repository creation, GitHub, Merge reviews
 
 #### Segment 1 Challenges:
 
@@ -51,15 +48,14 @@ The data set we selected went back to the 18th century, and as a group we had to
 
 #### Segment 2
 
+For this segment we have created a machine learning model, , and individually committed to our branches of the repo before merging.
+
 #### Who worked on what?
 
-Andrew: Presentation, Tableau, Merge reviews
-
-Kevin: Machine Learning Model, Python, Merge reviews
-
-Kimber: Presentation, Tableau, Merge reviews
-
-Ryan: Machine Learning Model, Merge reviews
+- Andrew: Presentation, Tableau, Merge reviews
+- Kevin: Machine Learning Model, Python, Merge reviews
+- Kimber: Presentation, Tableau, Merge reviews
+- Ryan: Machine Learning Model, Python, Merge reviews
 
 #### Segment 2 Challenges:
 
