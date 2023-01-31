@@ -52,9 +52,17 @@ The data set we selected went back to the 18th century, and as a group we had to
 
 #### Segment 2
 
-For this segment we have created a machine learning model, created an arima model, used Google slides to start our presentation, and individually committed to our branches of the repo before merging.
+For this segment we have created machine learning models, visuals using Tableau,  Google slides for our presentation, and individually committed to our branches of the repo before merging.
 
 [Google Slides](https://docs.google.com/presentation/d/1GVAT41msW3DNEXlcEjHS8knw2S0NamJewoWL63OJ63c/edit?usp=sharing)
+
+<img width="1506" alt="Screen Shot 2023-01-30 at 9 27 49 PM" src="https://user-images.githubusercontent.com/111471057/215646576-b84f66df-f3d4-40d8-841b-cf396ab93749.png">
+
+We have added charts showing total emissions by country (example is from 2021 data), Emissions per capita (example is from 2021 data), and a line graph showing emissions trends over time by country and per capita. 
+
+![emissions_temp_change](https://user-images.githubusercontent.com/111471057/215646758-c21a31fd-6249-4668-97cf-ffb82b17434c.png)
+
+Our machine learniing models show that, while global emissions are going up, some countries are reducing their emissions, but global temperatures continue to rise.
 
 ##### Who worked on what?
 
