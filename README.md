@@ -19,29 +19,26 @@ Our team has decided to take a deeper look into the correlation found between gl
 
 #### Segment 1
  
-  For this segment we have cleaned the data, created tables for our database which we have saved as CSV files (listed below), and individually commited to our branches of the repo before merging.
+  For this segment we have cleaned the data, created tables for our database which we have saved as CSV files (listed below), and individually committed to our branches of the repo before merging.
 
-  The team selected datasets concerning emissions by country, global temperature trends, and world population. We all agreed that we would like something measurable and scientific to work on for our project. We wanted a subject we all cared about that would also be an interesting subject to present. (Also, the Star Wars data we found didn't have any data to show off our machine learning skills!) 
+  The team selected datasets concerning emissions by country, global temperature trends, and world population. We all agreed that we would like something measurable and scientific to work on for our project. We wanted a subject we all cared about that would also be an interesting subject to present. 
   
   We plan to use this data to show trends over the last 20-60 years whether it be an increase or decrease of emissions, and we want to use machine learning to predict future temperatures.
 
-#### Who worked on what?
+##### Who worked on what?
 
-Andrew: Cleaning data, SQL, Database, Merge reviews
+- Andrew: Cleaning data, SQL, Database, Merge reviews
+- Kevin: Cleaning data, Python, Merge reviews
+- Kimber: Readme, VS code, Merge reviews
+- Ryan: Cleaning Data, Repository creation, GitHub, Merge reviews
 
-Kevin: Cleaning data, Python, Merge reviews
-
-Kimber: Readme, VS code, Merge reviews
-
-Ryan: Cleaning Data, Repository creation, GitHub, Merge reviews
-
-#### Segment 1 Challenges:
+##### Segment 1 Challenges:
 
 The data we selected seems to have come from different sources that had different objectives, so we had some trouble cleaning the data in a way that allowed us to join the tables on the country and year of collection. 
 
 The data set we selected went back to the 18th century, and as a group we had to decide what we would keep and what we would drop. This also helped in creating the initial database.
 
-#### CSV Files:
+##### Original CSV Files:
 
 - [emission_cleaned.csv](exploring_world_emissions/Resources/emission_cleaned)
 
@@ -49,25 +46,45 @@ The data set we selected went back to the 18th century, and as a group we had to
 
 - [world_population_by_year.csv](exploring_world_emissions/Resources/world_population_by_year)
 
+##### ERD Model
+
+![Screen Shot 2023-01-30 at 8 21 20 PM](https://user-images.githubusercontent.com/111471057/215635353-182093b8-1cc8-4dbe-bd64-b838d0e5e322.png)
+
 #### Segment 2
 
-#### Who worked on what?
+For this segment we have created machine learning models, visuals using Tableau,  Google slides for our presentation, and individually committed to our branches of the repo before merging.
 
-Andrew: Presentation, Tableau, Merge reviews
+[Google Slides](https://docs.google.com/presentation/d/1GVAT41msW3DNEXlcEjHS8knw2S0NamJewoWL63OJ63c/edit?usp=sharing)
 
-Kevin: Machine Learning Model, Python, Merge reviews
+<img width="1506" alt="Screen Shot 2023-01-30 at 9 27 49 PM" src="https://user-images.githubusercontent.com/111471057/215646576-b84f66df-f3d4-40d8-841b-cf396ab93749.png">
 
-Kimber: Presentation, Tableau, Merge reviews
+We have added charts showing total emissions by country (example is from 2021 data), Emissions per capita (example is from 2021 data), and a line graph showing emissions trends over time by country and per capita. 
 
-Ryan: Machine Learning Model, Merge reviews
+![emissions_temp_change](https://user-images.githubusercontent.com/111471057/215646758-c21a31fd-6249-4668-97cf-ffb82b17434c.png)
 
-#### Segment 2 Challenges:
+Our machine learniing models show that, while global emissions are going up, some countries are reducing their emissions, but global temperatures continue to rise.
 
-[enter here]
+##### Who worked on what?
+
+- Andrew: Presentation, Tableau, Merge reviews
+- Kevin: Machine Learning Model, Python, Merge reviews
+- Kimber: Presentation, Tableau, Merge reviews
+- Ryan: Machine Learning Model, Python, Merge reviews
+
+##### Segment 2 Challenges:
+
+When creating the machine learning model we had trouble finding correlation between global temperatures and emissions. We found this was due to countries having reduced their own emissions in recent years. We also had trouble creating an arima model with good accuracy output.
 
 #### Segment 3
 
-#### Segment 4
+For this segment we refined our machine learning models, presentation, and visual dashboard.
+
+##### Who worked on what?
+
+- Andrew: Presentation, Tableau, Merge reviews
+- Kevin: Machine Learning Model, Python, Merge reviews
+- Kimber: README, Presentation, Tableau, Merge reviews
+- Ryan: Machine Learning Model, Python, Merge reviews
 
 ### Resources
 Source Data:
