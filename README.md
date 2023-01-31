@@ -48,7 +48,9 @@ The data set we selected went back to the 18th century, and as a group we had to
 
 #### Segment 2
 
-For this segment we have created a machine learning model, , and individually committed to our branches of the repo before merging.
+For this segment we have created a machine learning model, created a slide show for presenting (linked below), and individually committed to our branches of the repo before merging.
+
+[Google Slides](https://docs.google.com/presentation/d/1GVAT41msW3DNEXlcEjHS8knw2S0NamJewoWL63OJ63c/edit?usp=sharing)
 
 #### Who worked on what?
 
