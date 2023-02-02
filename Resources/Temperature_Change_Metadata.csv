@@ -1,7 +1,0 @@
-,0
-Indicator,"Temperature change with respect to a baseline climatology, corresponding to the period 1951-1980"
-Unit,Degree Celsius
-Source,"Food and Agriculture Organization of the United Nations (FAO). 2022. FAOSTAT Climate Change, Climate Indicators, Temperature change. License: CC BY-NC-SA 3.0 IGO. Extracted from: https://www.fao.org/faostat/en/#data/ET. Accessed on 2022-05-03."
-CTS_Code,ECCS
-CTS_Name,Surface Temperature Change
-CTS_Full_Descriptor,"Environment, Climate Change, Climate Indicators, Surface Temperature Change"
