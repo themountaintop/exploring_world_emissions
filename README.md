@@ -102,8 +102,21 @@ Source Data:
   - cleaned data was saved into a new table
 
 
-### Project Challenges (to be completed as they present)
+### Project Challenges
+
+- Too much data and too little data
+- SQL foreign keys 
+- ARIMA model - Creating working model
+- Temperature change is a global phenomenon and emissions do not follow the same pattern for all countries
+
+### Future Plans
+
+- More machine learning experience may lead to better models
+- If we had more time we would explore the data we have for the emissions sources
+- If we had more time we would create more tableau visualizations for temperature changes by country
 
 
-### Summary (to be completed after analysis)
 
+### Summary 
+
+A basic linear regression model performed the best on our dataset across all countries. That being said, temperature changes fluctuate based on a wide variety of factors that cannot be accurately predicted by emissions or population data alone. Additionally, temperature changes are a global phenomenon. Therefore, the temperature change in any specific country cannot accurately be predicted by it's emissions or population data. If global emissions continue to increase, then temperatures in every single country will continue to increase. Therefore, if we want to stop temperature increases, there must be a global effort to reduce emissions.
