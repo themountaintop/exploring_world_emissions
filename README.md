@@ -110,6 +110,13 @@ Presentation:
 - ARIMA model - Creating working model
 - Temperature change is a global phenomenon and emissions do not follow the same pattern for all countries
 
+### Project Challenges
+
+- Too much data and too little data
+- SQL foreign keys 
+- ARIMA model - Creating working model
+- Temperature change is a global phenomenon and emissions do not follow the same pattern for all countries
+
 ### Future Plans
 
 - More machine learning experience may lead to better models
