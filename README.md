@@ -67,7 +67,7 @@ Our machine learning models show that, while global emissions are going up, some
 - Andrew: Presentation, Tableau, Merge reviews
 - Kevin: Machine Learning Model, Python, Merge reviews
 - Kimber: Presentation, Tableau, Merge reviews
-- Ryan: Machine Learning Model, Python, Merge reviews
+- Ryan: Arima Model, Python, Merge reviews
 
 ##### Segment 2 Challenges:
 
@@ -103,7 +103,6 @@ Presentation:
 - [Tableau Dashboard](https://public.tableau.com/app/profile/kimber.evans/viz/ExploringWorldEmissions/Dashboard1?publish=yes)
 - [Google Slides](https://docs.google.com/presentation/d/1GVAT41msW3DNEXlcEjHS8knw2S0NamJewoWL63OJ63c/edit?usp=sharing)
 
-
 ### Project Challenges
 
 - Too much data and too little data
@@ -116,7 +115,6 @@ Presentation:
 - More machine learning experience may lead to better models
 - If we had more time we would explore the data we have for the emissions sources
 - If we had more time we would create more tableau visualizations for temperature changes by country
-
 
 ### Summary 
 
