@@ -54,22 +54,20 @@ The data set we selected went back to the 18th century, and as a group we had to
 
 For this segment we have created machine learning models, visuals using Tableau,  Google slides for our presentation, and individually committed to our branches of the repo before merging.
 
-[Google Slides](https://docs.google.com/presentation/d/1GVAT41msW3DNEXlcEjHS8knw2S0NamJewoWL63OJ63c/edit?usp=sharing)
-
 <img width="1506" alt="Screen Shot 2023-01-30 at 9 27 49 PM" src="https://user-images.githubusercontent.com/111471057/215646576-b84f66df-f3d4-40d8-841b-cf396ab93749.png">
 
 We have added charts showing total emissions by country (example is from 2021 data), Emissions per capita (example is from 2021 data), and a line graph showing emissions trends over time by country and per capita. 
 
 ![emissions_temp_change](https://user-images.githubusercontent.com/111471057/215646758-c21a31fd-6249-4668-97cf-ffb82b17434c.png)
 
-Our machine learniing models show that, while global emissions are going up, some countries are reducing their emissions, but global temperatures continue to rise.
+Our machine learning models show that, while global emissions are going up, some countries are reducing their emissions, but global temperatures continue to rise.
 
 ##### Who worked on what?
 
 - Andrew: Presentation, Tableau, Merge reviews
 - Kevin: Machine Learning Model, Python, Merge reviews
 - Kimber: Presentation, Tableau, Merge reviews
-- Ryan: Machine Learning Model, Python, Merge reviews
+- Ryan: Arima Model, Python, Merge reviews
 
 ##### Segment 2 Challenges:
 
@@ -101,6 +99,16 @@ Source Data:
   - this data set has our emissions measurements by country
   - cleaned data was saved into a new table
 
+Presentation:
+- [Tableau Dashboard](https://public.tableau.com/app/profile/kimber.evans/viz/ExploringWorldEmissions/Dashboard1?publish=yes)
+- [Google Slides](https://docs.google.com/presentation/d/1GVAT41msW3DNEXlcEjHS8knw2S0NamJewoWL63OJ63c/edit?usp=sharing)
+
+### Project Challenges
+
+- Too much data and too little data
+- SQL foreign keys 
+- ARIMA model - Creating working model
+- Temperature change is a global phenomenon and emissions do not follow the same pattern for all countries
 
 ### Project Challenges
 
@@ -115,8 +123,6 @@ Source Data:
 - If we had more time we would explore the data we have for the emissions sources
 - If we had more time we would create more tableau visualizations for temperature changes by country
 
-
-
 ### Summary 
 
-A basic linear regression model performed the best on our dataset across all countries. That being said, temperature changes fluctuate based on a wide variety of factors that cannot be accurately predicted by emissions or population data alone. Additionally, temperature changes are a global phenomenon. Therefore, the temperature change in any specific country cannot accurately be predicted by it's emissions or population data. If global emissions continue to increase, then temperatures in every single country will continue to increase. Therefore, if we want to stop temperature increases, there must be a global effort to reduce emissions.
+A basic linear regression model performed the best on our dataset across all countries. That being said, temperature changes fluctuate based on a wide variety of factors that cannot be accurately predicted by emissions or population data alone. Additionally, temperature changes are a global phenomenon. Therefore, the temperature change in any specific country cannot accurately be predicted by its emissions or population data. If global emissions continue to increase, then temperatures in every single country will continue to increase. In conclusion, if we want to stop temperature increases, there must be a global effort to reduce emissions.
