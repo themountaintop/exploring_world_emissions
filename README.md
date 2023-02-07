@@ -94,13 +94,17 @@ For this segment we refined our machine learning models, presentation, and visua
 ##### Results of the ML Models
 
 - Linear Regression
-  -The Linear Regression model roughly fits the data, though it may be underfitting in some instances. It had the second lowest RMSE on the test set at 0.596 (degrees celsius). The R-Squared values show that while it weakly explains the variance of the temperature change on the training set, it effectively can't explain it on the test set.
+
+  - The Linear Regression model roughly fits the data, though it may be underfitting in some instances. It had the second lowest RMSE on the test set at 0.596 (degrees celsius). The R-Squared values show that while it weakly explains the variance of the temperature change on the training set, it effectively can't explain it on the test set.
 - Support Vector Regression
-  -The Support Vector Regression model does well in some cases and very poorly in others. It had the best RMSE on the test set at 0.552 (degrees celsius). Once again the R-Squared values show that it weakly explains the variance on the training set, but can't on the test set.
+
+  - The Support Vector Regression model does well in some cases and very poorly in others. It had the best RMSE on the test set at 0.552 (degrees celsius). Once again the R-Squared values show that it weakly explains the variance on the training set, but can't on the test set.
 - Random Forest Regression
-  -The Random Forest Regression model is somewhat overfitting on the training set and doing poorly on the test set. It appears that it placed too much importance on the year column. It may have needed more precise feature weighting and model tuning to perform better. This model had the worst RMSE on the test set at 0.747 (degrees celsius). The R-Squared values show that this model moderately explained the variance of the temperature change on the training set, but was significantlty less accurate than just predicting the average value on the test set.
+
+  - The Random Forest Regression model is somewhat overfitting on the training set and doing poorly on the test set. It appears that it placed too much importance on the year column. It may have needed more precise feature weighting and model tuning to perform better. This model had the worst RMSE on the test set at 0.747 (degrees celsius). The R-Squared values show that this model moderately explained the variance of the temperature change on the training set, but was significantlty less accurate than just predicting the average value on the test set.
 - Final Results
-  -It appears none of the models were able to make accurate predictions that properly explained the variance in the temperature change. This may have been due to having too many conflicting trends among the countries. We may have also needed more training data for the models to learn. Finally, it's possible that better dataset processing, feature selection, and model tuning would have led to better results.
+
+  - It appears none of the models were able to make accurate predictions that properly explained the variance in the temperature change. This may have been due to having too many conflicting trends among the countries. We may have also needed more training data for the models to learn. Finally, it's possible that better dataset processing, feature selection, and model tuning would have led to better results.
 
 ##### Who worked on what?
 
