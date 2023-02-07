@@ -81,11 +81,11 @@ For this segment we refined our machine learning models, presentation, and visua
 
 ##### Description of the Data Exploration Phase
 
-- Data Cleaning
-    - text
-    
-- Database Creation
-    - text
+- Data Cleaning and Database Creation
+    - The datasets we used included one showing amounts of emissions by each country per year, which included totals, per capita and break downs by subcategories such as coal or flaring, a second one showing the population of each country per year, and a third showing the average temperature change of each country per year.
+    - In cleaning the data in pandas, some null values were dropped to try to get the most consistent information across all the datasets and columns, which led to some countries being dropped, and all information prior to 1961 was dropped since we would only be using the information starting from that year in our analysis.
+    - Some columns were renamed for clarity and to make creating the database easier and some tables were reformatted. In the temperature change and population datasets year rows were shifted to columns to make information more consistent across the datasets.
+    - We used a Postgres database to store the datasets, resulting in three tables. To create primary keys, composite keys were created using the ISO codes (the three letter codes unique to each country) and years (for example: USA/1961, USA/1962, etc.). After some experimentation, a keys table was created using all the ISO’s and years that any of the three sheets used, and foreign keys were linked to the keys table, making the database relational.
 
 ##### Description of the Analysis Phase
 
