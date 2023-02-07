@@ -81,29 +81,37 @@ For this segment we refined our machine learning models, presentation, and visua
 
 ##### Description of the Data Exploration Phase
 
-
+- Data Cleaning
+    - text
+    
+- Database Creation
+    - text
 
 ##### Description of the Analysis Phase
 
-
-
+- Tableau Visualizations
+    - A tableau dashboard was created to show what the temperature and emissions trends have been over the last 20-60 years. The dynamic chart "Total Emissions By Country" shows which countries are the top emitters by year selection. Since 2006 the order of top emitters are China, USA, Russia, Japan, and Germany. The heat map "Emissions Per Capita" shows which countries have the highest emisions based on population by year selection. This visualization shows us that while China is a higher emitter, the amount per capita is lower than that of the USA and Russia. The multi-line graph "Global Emissions by Year" shows trending emissions over time. Most countries trend upward in emissions, but some have reduced their emissions. Globally, all total emissions continue to increase over time.
+    
 ##### Description of Machine Learning Processing
 
-
+- Predicting the Future
+    - One of our main questions we wanted to answer was whether we can predict future global temperatures using data collected over the last 20-60 years. To perform these predictions, we will use ARIMA modeling, Linear regression modeling, Support Vector Regression modeling, and Random Forest Regression modeling.
 
 ##### Results of the ML Models
 
+- ARIMA Modeling
+    - The ARIMA (Autoregressive Integration Moving Average) model has the potential to predict future values based on the data it's fed. However, during our analysis it did not perform up the to the standard we needed in order for it to make any accurate predictions. When plotting our diagnostics from the model, the Histogram and Normal Q-Q plots showed good indications that the residuals were normally distributed. The Normal Q-Q plot follows a linear trend with the samples taken, however our ACF (Autocorrelation Plot) shows low to high variance and the values do not decay towards zero which suggest the model is not quite capturing the intended information from the data it was given and is/was not going to accurately predict any future values.
+
 - Linear Regression
-
   - The Linear Regression model roughly fits the data, though it may be underfitting in some instances. It had the second lowest RMSE on the test set at 0.596 (degrees celsius). The R-Squared values show that while it weakly explains the variance of the temperature change on the training set, it effectively can't explain it on the test set.
+
 - Support Vector Regression
-
   - The Support Vector Regression model does well in some cases and very poorly in others. It had the best RMSE on the test set at 0.552 (degrees celsius). Once again the R-Squared values show that it weakly explains the variance on the training set, but can't on the test set.
+
 - Random Forest Regression
-
   - The Random Forest Regression model is somewhat overfitting on the training set and doing poorly on the test set. It appears that it placed too much importance on the year column. It may have needed more precise feature weighting and model tuning to perform better. This model had the worst RMSE on the test set at 0.747 (degrees celsius). The R-Squared values show that this model moderately explained the variance of the temperature change on the training set, but was significantlty less accurate than just predicting the average value on the test set.
-- Final Results
 
+- Final Results
   - It appears none of the models were able to make accurate predictions that properly explained the variance in the temperature change. This may have been due to having too many conflicting trends among the countries. We may have also needed more training data for the models to learn. Finally, it's possible that better dataset processing, feature selection, and model tuning would have led to better results.
 
 ##### Who worked on what?
