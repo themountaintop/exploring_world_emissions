@@ -6,10 +6,9 @@
     - [Segment 1](#segment-1)
     - [Segment 2](#segment-2)
     - [Segment 3](#segment-3)
-    - [Segment 4](#segment-4)
-- [Resources](#resources)
 - [Project Challenges](#project-challenges)
 - [Summary](#summary)
+- [Resources](#resources)
 
 
 ### Overview of project
@@ -23,7 +22,10 @@ Our team has decided to take a deeper look into the correlation found between gl
 
   The team selected datasets concerning emissions by country, global temperature trends, and world population. We all agreed that we would like something measurable and scientific to work on for our project. We wanted a subject we all cared about that would also be an interesting subject to present. 
   
-  We plan to use this data to show trends over the last 20-60 years whether it be an increase or decrease of emissions, and we want to use machine learning to predict future temperatures.
+  We want to use this data to answer a few questions:
+  - What are the emission trends over the last 20-60 years?
+  - Can we use machine learning to predict future temperatures?
+  - Is there a correlation between global temperature and rising emissions?
 
 ##### Who worked on what?
 
@@ -60,7 +62,7 @@ We have added charts showing total emissions by country (example is from 2021 da
 
 ![emissions_temp_change](https://user-images.githubusercontent.com/111471057/215646758-c21a31fd-6249-4668-97cf-ffb82b17434c.png)
 
-Our machine learning models show that, while global emissions are going up, some countries are reducing their emissions, but global temperatures continue to rise.
+Our analysis show that, while global emissions are going up, some countries are reducing their emissions, but global temperatures continue to rise.
 
 ##### Who worked on what?
 
@@ -77,12 +79,52 @@ When creating the machine learning model we had trouble finding correlation betw
 
 For this segment we refined our machine learning models, presentation, and visual dashboard.
 
+##### Description of the Data Exploration Phase
+
+
+
+##### Description of the Analysis Phase
+
+
+
+##### Description of Machine Learning Processing
+
+
+
+##### Results of the ML Models
+
+- Linear Regression
+  -The Linear Regression model roughly fits the data, though it may be underfitting in some instances. It had the second lowest RMSE on the test set at 0.596 (degrees celsius). The R-Squared values show that while it weakly explains the variance of the temperature change on the training set, it effectively can't explain it on the test set.
+- Support Vector Regression
+  -The Support Vector Regression model does well in some cases and very poorly in others. It had the best RMSE on the test set at 0.552 (degrees celsius). Once again the R-Squared values show that it weakly explains the variance on the training set, but can't on the test set.
+- Random Forest Regression
+  -The Random Forest Regression model is somewhat overfitting on the training set and doing poorly on the test set. It appears that it placed too much importance on the year column. It may have needed more precise feature weighting and model tuning to perform better. This model had the worst RMSE on the test set at 0.747 (degrees celsius). The R-Squared values show that this model moderately explained the variance of the temperature change on the training set, but was significantlty less accurate than just predicting the average value on the test set.
+- Final Results
+  -It appears none of the models were able to make accurate predictions that properly explained the variance in the temperature change. This may have been due to having too many conflicting trends among the countries. We may have also needed more training data for the models to learn. Finally, it's possible that better dataset processing, feature selection, and model tuning would have led to better results.
+
 ##### Who worked on what?
 
 - Andrew: Presentation, Tableau, Merge reviews
 - Kevin: Machine Learning Model, Python, Merge reviews
 - Kimber: README, Presentation, Tableau, Merge reviews
 - Ryan: Machine Learning Model, Python, Merge reviews
+
+### Summary 
+
+A basic linear regression model performed the best on our dataset across all countries. That being said, temperature changes fluctuate based on a wide variety of factors that cannot be accurately predicted by emissions or population data alone. Additionally, temperature changes are a global phenomenon. Therefore, the temperature change in any specific country cannot accurately be predicted by its emissions or population data. If global emissions continue to increase, then temperatures in every single country will continue to increase. In conclusion, if we want to stop temperature increases, there must be a global effort to reduce emissions.
+
+### Project Challenges
+
+- Too much data and too little data
+- SQL foreign keys 
+- ARIMA model - Creating working model
+- Temperature change is a global phenomenon and emissions do not follow the same pattern for all countries
+
+### Future Plans
+
+- More machine learning experience may lead to better models
+- If we had more time we would explore the data we have for the emissions sources
+- If we had more time we would create more tableau visualizations for temperature changes by country
 
 ### Resources
 Source Data:
@@ -102,27 +144,3 @@ Source Data:
 Presentation:
 - [Tableau Dashboard](https://public.tableau.com/app/profile/kimber.evans/viz/ExploringWorldEmissions/Dashboard1?publish=yes)
 - [Google Slides](https://docs.google.com/presentation/d/1GVAT41msW3DNEXlcEjHS8knw2S0NamJewoWL63OJ63c/edit?usp=sharing)
-
-### Project Challenges
-
-- Too much data and too little data
-- SQL foreign keys 
-- ARIMA model - Creating working model
-- Temperature change is a global phenomenon and emissions do not follow the same pattern for all countries
-
-### Project Challenges
-
-- Too much data and too little data
-- SQL foreign keys 
-- ARIMA model - Creating working model
-- Temperature change is a global phenomenon and emissions do not follow the same pattern for all countries
-
-### Future Plans
-
-- More machine learning experience may lead to better models
-- If we had more time we would explore the data we have for the emissions sources
-- If we had more time we would create more tableau visualizations for temperature changes by country
-
-### Summary 
-
-A basic linear regression model performed the best on our dataset across all countries. That being said, temperature changes fluctuate based on a wide variety of factors that cannot be accurately predicted by emissions or population data alone. Additionally, temperature changes are a global phenomenon. Therefore, the temperature change in any specific country cannot accurately be predicted by its emissions or population data. If global emissions continue to increase, then temperatures in every single country will continue to increase. In conclusion, if we want to stop temperature increases, there must be a global effort to reduce emissions.
